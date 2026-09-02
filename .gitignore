@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+downloads/
+node_modules/
+migration-results.csv

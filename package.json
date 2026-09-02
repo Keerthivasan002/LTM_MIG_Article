@@ -1,0 +1,12 @@
+{
+  "name": "snow-to-freshservice-kb-sample",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ServiceNow knowledge article migration to Freshservice",
+  "scripts": {
+    "migrate": "node migrate-sample.js"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
