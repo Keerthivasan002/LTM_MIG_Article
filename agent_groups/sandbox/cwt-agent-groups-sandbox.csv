@@ -1,0 +1,919 @@
+id,name,members_count,observers_count,leaders_count,members_pending_count,observers_pending_count,leaders_pending_count,total_people,workspace_id,workspace_name,restricted,description
+33000162935,CWT AAC - Singapore,2,0,0,0,0,0,2,2,My Team,no,Area Asset Coordinator over seeing the asset process for the country
+33000162936,CWT Accenture Global Technology,2,0,0,0,0,0,2,2,My Team,no,Accenture GLOBAL account servicing items that needs to be worked by the Global Technology Manager.
+33000162937,CWT Accounting - Chart of Accounts,3,0,0,0,0,0,3,2,My Team,no,null
+33000162413,CWT Accounts Payable,5,0,0,0,0,0,5,2,My Team,no,null
+33000162228,CWT Active Directory Services,4,0,0,0,0,0,4,2,My Team,no,null
+33000162938,CWT Admin Group,1,0,0,0,0,0,1,2,My Team,no,Group used to assign ServiceNow admin role to users
+33000162414,CWT Adobe Admin and Support,4,0,0,0,0,0,4,2,My Team,no,This group will be for the assignment of requests and support related to Adobe software products
+33000162939,CWT Advanced Work Assignent Admin,1,0,0,0,0,0,1,2,My Team,no,null
+33000162415,CWT AGM BO SUPPORT,4,0,0,0,0,0,4,2,My Team,no,Client account setups and other implementation related tasks mainly in the Finnish backoffice tool AGM  Renamed 3/4/24 from AGM SETUP to AGM BO SUPPORT. Requeted by Mia Vlasoff
+33000162416,CWT AGM FO SUPPORT,3,0,0,0,0,0,3,2,My Team,no,Finance Support team FInland  Renamed 3/4/24 from AGM SUPPORT to AGM FO SUPPORT. Requeted by Mia Vlasoff
+33000163777,CWT AGM Support,0,0,0,0,0,0,0,2,My Team,no,
+33000162417,CWT AI One Tech Team,1,0,0,0,0,0,1,2,My Team,no,null
+33000162418,CWT Air Pref API DevOps Support,3,0,0,0,0,0,3,2,My Team,no,null
+33000162419,CWT Airhub Support,3,0,0,0,0,0,3,2,My Team,no,"Airhub Support assignment group, will be used for problem/request/incident for our flight shop/book engine -  ""myCWT Flight (AirHub)"" product"
+33000162940,CWT AIRLINE DRA,3,0,0,0,0,0,3,2,My Team,no,null
+33000162941,CWT Akritiv Approver Group,2,0,0,0,0,0,2,2,My Team,no,Arkritiv Approver Group
+33000162420,CWT Akritiv Support,4,0,0,0,0,0,4,2,My Team,no,The group will provide support on Akritiv based incidents and requests
+33000162942,CWT Alert Monitoring MDF/APS,7,0,0,0,0,0,7,2,My Team,no,null
+33000162943,CWT AllClear Approver Group,3,0,0,0,0,0,3,2,My Team,no,Change Approver Group for application AllClear
+33000162944,CWT AllClear Support,2,0,0,0,0,0,2,2,My Team,no,null
+33000162945,CWT Americas Moxie Support,4,0,0,0,0,0,4,2,My Team,no,Support for NORAM and LATAM In Country Moxie request from Local Support Team.
+33000162946,CWT AMM Approver Group,4,0,0,0,0,0,4,2,My Team,no,Group to approve changes related to middleware
+33000162947,CWT Analytics Approvers,4,0,0,0,0,0,4,2,My Team,no,"This group manages the Analytics Reporting platform and product and includes Travel Consolidator and AnswerIQ.   It is the full suite of tools that use the ThoughtSpot application.  In the short-term, the multiple products have their own name, but will collapse into the one name of Analytics"
+33000162364,CWT Analytics DevOps and Support,7,0,0,0,0,0,7,2,My Team,no,"Team is responsible for support of the Analytics platform that is running off Thoughtspot Cloud.  This is the platform replacing old AnalytIQs that was running on IBM Cognos and AnswerIQ that was on ThoughtSpot on Premise  June 10, 2026 (RITM0554582) -Manger changed from Patrice Simone to Christopher Lingbaoan"
+33000162421,CWT Analytics Navigation and Functionality,1,0,0,0,0,0,1,2,My Team,no,Support group for Analytics related questions or issues
+33000163016,CWT AnalytIQs Approvers,8,0,0,0,0,0,8,2,My Team,no,CWT AnalytIQs Approver Group for any changes impacting the CWT AnalytIQs production environment
+33000162365,CWT AnalytIQs Development,12,0,0,0,0,0,12,2,My Team,no,Using this group to manage development tasks.
+33000162948,CWT Announcement Admin,1,0,0,0,0,0,1,2,My Team,no,"This group allows access to the Announcment module.  The main purpose is to allow members of the group the ability to create and manage announcments on the Service Portal, typically for Incidents or Service Desk related information."
+33000162949,CWT AnswerIQ Approver Group,4,0,0,0,0,0,4,2,My Team,no,AnswerIQ Change Approver Group
+33000163017,CWT AnswerIQ L1,11,0,0,0,0,0,11,2,My Team,no,L1 Support queue for the DnA AnswerIQ product.  Also known as ThoughtSpot
+33000162422,CWT APAC CEC team,16,0,0,0,0,0,16,2,My Team,no,"Need access to APAC countries - AUNZ, SG, HK, TH, IN, ID. Manage feedback across APAC"
+33000162423,CWT APAC Desktop KTLO,10,0,0,0,0,0,10,2,My Team,no,"BPG APAC Synergy unit that supports the Legacy & KTLO applications/software Group renamed to from APAC Synergy Legacy KTLO to APAC Desktop KTLO, 9/19/22 requested by Karren Roxas"
+33000162950,CWT APAC INFORMATION SECURITY,2,0,0,0,0,0,2,2,My Team,no,null
+33000162424,CWT APAC IT INFRASTRUCTURE,8,0,0,0,0,0,8,2,My Team,no,null
+33000163018,CWT APAC_IN Physical Security,3,0,0,0,0,0,3,2,My Team,no,Employee Badge Provisioning India
+33000162366,CWT APAC_MNL Physical Security,5,0,0,0,0,0,5,2,My Team,no,Access badge request fulfillment group
+33000163019,CWT APAC_SG Physical Security,3,0,0,0,0,0,3,2,My Team,no,Employee Badge Provisioning Singapore
+33000163020,CWT APAC_SYD Physical Security,2,0,0,0,0,0,2,2,My Team,no,Employee Badge Provisioning Sydney
+33000162951,CWT APM Admin,1,0,0,0,0,0,1,2,My Team,no,Role group for APM Admin role
+33000162952,CWT APM Read,1,0,0,0,0,0,1,2,My Team,no,Role group for APM Read role
+33000162953,CWT APM User,1,0,0,0,0,0,1,2,My Team,no,Role group for APM User role
+33000162211,CWT APP MIDDLEWARE & SUPPORT,16,0,0,0,0,0,16,2,My Team,no,"CWT-AMS Operates 24x7, Providing Support and Managing Alerts for Global Applications running in Production Environment. This group was renamed from ""APP PRODUCTION SUPPORT"" to ""APP MIDDLEWARE & SUPPORT"" 2/7/22"
+33000162427,CWT APP MIDDLEWARE ENG,12,0,0,0,0,0,12,2,My Team,no,Middleware team that is involved with engineering Application Middleware that comes into the IT Operations groups.
+33000162954,CWT App-Sec Manager,1,0,0,0,0,0,1,2,My Team,no,Prioritizes and manages application vulnerable items.
+33000162955,CWT APPD APPLICATION CI MAPPING USER,1,0,0,0,0,0,1,2,My Team,no,Rold group for applying the u_appd_application_ci_mapping_user role
+33000162428,CWT Application Security,6,0,0,0,0,0,6,2,My Team,no,"Team that is responsible for the process of developing, adding, and testing security features within applications to prevent security vulnerabilities against threats such as unauthorized access and modification."
+33000162429,CWT AQUA Access Approvers,2,0,0,0,0,0,2,2,My Team,no,Approvers for AQUA requests - primarily for database access for AQUA
+33000162212,CWT AQUA APP Support,6,0,0,0,0,0,6,2,My Team,no,"Power Center App Support manages all application incidents, changes, Tech Support notifications,   June 23, 2026: Group email upated from aquaappsupport@mycwt.com to aquaappsupport@amexgbt.com"
+33000162956,CWT AQUA APP Support Approvers Group,2,0,0,0,0,0,2,2,My Team,no,null
+33000162957,CWT AQUA Approver Group,4,0,0,0,0,0,4,2,My Team,no,"All support regarding Power Center application for regions NORAM, APAC, EMEA, LATAM"
+33000162432,CWT AQUA COREDEV ONCALL,4,0,0,0,0,0,4,2,My Team,no,null
+33000162958,CWT AQUA M&G Approver Group,3,0,0,0,0,0,3,2,My Team,no,All Power Center Support for Military & Government NORAM
+33000162213,CWT AQUA Support,14,0,0,0,0,0,14,2,My Team,no,null
+33000162214,CWT ARC SECURITY,4,0,0,0,0,0,4,2,My Team,no,Group is used to setup new users in My ARC and DRS ARC Compass and reset their passwords.
+33000162437,CWT ARC SETTLEMENT ADMINISTRATION,3,0,0,0,0,0,3,2,My Team,no,null
+33000162438,CWT ARCS Support,3,0,0,0,0,0,3,2,My Team,no,"Cadency Application Support Group manages the entire Record-to-Report cycle end to end, from local to group financial close   Group renamed from ""Cadency (Trintech) Support"" to ""ARCS Support"" 2/6/23 per request from Jaroslaw Han"
+33000162959,CWT Assessment Admin,1,0,0,0,0,0,1,2,My Team,no,null
+33000162910,CWT ASSET-ADMIN,1,0,0,0,0,0,1,2,My Team,no,The ServiceNow ASSET-ADMIN group defines the group of users that have admin access to the Workstation Asset Management application.
+33000162911,CWT ASSET-USER,1,0,0,0,0,0,1,2,My Team,no,The ASSET-USER group defines the group of users that have read-only access to the Workstation Asset Management application.
+33000162439,CWT AWA Manager,9,0,0,0,0,0,9,2,My Team,no,Group Role used to provide access to the Work Item(awa_work_item) table to pull data for Virtual Agent Chats
+33000162912,CWT BACKOFFICE EMEA L2,2,0,0,0,0,0,2,2,My Team,no,Drive end to end optimization and integration into mid and back-office
+33000162913,CWT BEIJING SERVICE DESK,1,0,0,0,0,0,1,2,My Team,no,null
+33000162914,CWT BENELUX IT PROCUREMENT,3,0,0,0,0,0,3,2,My Team,no,Updated Manager as Matthew Hammond is no longer an active employee
+33000162915,CWT BENELUX TS BMF,3,0,0,0,0,0,3,2,My Team,no,null
+33000162916,CWT BENELUX TS CAR,3,0,0,0,0,0,3,2,My Team,no,null
+33000162917,CWT BENELUX TS CWT ANALYTIQS,3,0,0,0,0,0,3,2,My Team,no,null
+33000162918,CWT BENELUX TS CWT ITINERARY,3,0,0,0,0,0,3,2,My Team,no,null
+33000162919,CWT BENELUX TS CWT LISTENS,3,0,0,0,0,0,3,2,My Team,no,null
+33000162920,CWT BENELUX TS CWT RESOLVE,3,0,0,0,0,0,3,2,My Team,no,null
+33000162921,CWT BENELUX TS ETTT,3,0,0,0,0,0,3,2,My Team,no,null
+33000162922,CWT BENELUX TS INTRANET,3,0,0,0,0,0,3,2,My Team,no,null
+33000162923,CWT BENELUX TS MOXIE,3,0,0,0,0,0,3,2,My Team,no,1st level - Local group for gathering all Moxie incidents - BE/NL/LU
+33000162924,CWT BENELUX TS ONLINE,2,0,0,0,0,0,2,2,My Team,no,null
+33000162925,CWT BENELUX TS POWER ASSIST,3,0,0,0,0,0,3,2,My Team,no,null
+33000162926,CWT BENELUX TS RAIL,3,0,0,0,0,0,3,2,My Team,no,null
+33000162927,CWT BENELUX TS VISA,3,0,0,0,0,0,3,2,My Team,no,null
+33000162928,CWT BENELUX TS VOIP,3,0,0,0,0,0,3,2,My Team,no,null
+33000162929,CWT BENELUX TS WINGS,3,0,0,0,0,0,3,2,My Team,no,null
+33000162215,CWT BI Data Warehouse Support,3,0,0,0,0,0,3,2,My Team,no,DnA Application Support
+33000162442,CWT BMF/PCT TECHNICAL GROUP,2,0,0,0,0,0,2,2,My Team,no,BMF/PCT TECHNICAL GROUP
+33000162367,CWT Booking Repository (CBR) Approvers Group,7,0,0,0,0,0,7,2,My Team,no,Approval group for things related to CWT Bookings Repository (CBR)
+33000162368,CWT Booking Repository Development - CBR,14,0,0,0,0,0,14,2,My Team,no,Development team for CWT Booking Repository also known as CBR
+33000162930,CWT BPG CSP Business Services,2,0,0,0,0,0,2,2,My Team,no,null
+33000162931,CWT BPG CWT Portrait Problem group,3,0,0,0,0,0,3,2,My Team,no,BPG CWT Portrait Problem Activity Tracking
+33000162382,CWT BPG Data Architect,2,0,0,0,0,0,2,2,My Team,no,DATA Modeling Group.
+33000162383,CWT BPG GDS Incident Escalation Support,5,0,0,0,0,0,5,2,My Team,no,Escalation support group for Severity 1/2 GDS Incidents
+33000162932,CWT BPG MDF Problem Group,4,0,0,0,0,0,4,2,My Team,no,BPG MDF Problem Group to address Problem identified through TX Pain Points Tracker
+33000162933,CWT BPG Pega Automation,4,0,0,0,0,0,4,2,My Team,no,CX Pega Automation Group. Created via RITM0087518 Liel Ongkengco
+33000162384,CWT BPG Power Applications Problem Tracker,8,0,0,0,0,0,8,2,My Team,no,Problem management group for Tracking BPG Power Applications TX Pain Points initiatives
+33000162934,CWT BPG Senior QA Group,5,0,0,0,0,0,5,2,My Team,no,This is a group of some of the BPG Senior QA team to be able to action & close Changes
+33000162385,CWT BPG SP Platform Team,3,0,0,0,0,0,3,2,My Team,no,null
+33000162860,CWT BPG TT Domain Approver Group,2,0,0,0,0,0,2,2,My Team,no,Traveler and Counselor Platforms
+33000162386,CWT BR APOIO OPERACIONAL,7,0,0,0,0,0,7,2,My Team,no,BR APOIO OPERACIONAL
+33000162861,CWT BR Apoio Power Hotel,7,0,0,0,0,0,7,2,My Team,no,BR Apoio Power Hotel Support Team
+33000162216,CWT BR PROCESSOS OPERACIONAIS,7,0,0,0,0,0,7,2,My Team,no,null
+33000162862,CWT BRANCH ACCOUNTING,3,0,0,0,0,0,3,2,My Team,no,null
+33000162863,CWT Business Stakeholder,1,0,0,0,0,0,1,2,My Team,no,Group that has business_stakeholder role  09/13/2022 - Added the sn_customerservice.case_viewer role for access to all Cases.  ServiceNow confirmed this role consumes a Business Stakeholder license.
+33000162389,CWT Buzz Support,4,0,0,0,0,0,4,2,My Team,no,null
+33000162864,CWT CA APPLICATION DEVELOPMENT,3,0,0,0,0,0,3,2,My Team,no,null
+33000162865,CWT CAB Managers,1,0,0,0,0,0,1,2,My Team,no,This group is for those who may run the EIT Change Board meetings (CAB)
+33000162866,CWT CallTrack Change Approver Group,2,0,0,0,0,0,2,2,My Team,no,Change Approver Group
+33000162390,CWT CANADA FINANCE SETUP,5,0,0,0,0,0,5,2,My Team,no,null
+33000162867,CWT CAPACITY PLANNING,15,0,0,0,0,0,15,2,My Team,no,null
+33000162868,CWT Case View Access - User,1,0,0,0,0,0,1,2,My Team,no,"This is a Role group to grant users access to view Cases (CS) and provides access to add comments to CS records. View only applies to Cases where the user is the Contact or Internal Contact.   Per ServiceNow, this does not consume any additional licensing (2022)"
+33000162869,CWT Catalog Manager,1,0,0,0,0,0,1,2,My Team,no,null
+33000162870,CWT CATALOG-ADMIN,1,0,0,0,0,0,1,2,My Team,no,ServiceNow Catalog admin group
+33000162871,CWT CATALOG-USER,1,0,0,0,0,0,1,2,My Team,no,Group providing write access to deliver Service Requests
+33000162391,CWT CBR DevOps,15,0,0,0,0,0,15,2,My Team,no,CBR DevOps are the team who developed CBR Services (CBRv2) and are also tasked to maintaining and operating the application. Any Incidents and Change Requests for CBR Services/CBRv2 will be assigned to this assignment group.  This group is differentiated from CWT Booking Repository Development - CBR or CBRv1 as CBRv1 is assigned to Itinerary/PASNGR related concerns.
+33000162392,CWT CBR Spotnana Devops,9,0,0,0,0,0,9,2,My Team,no,CBR Spotnana DevOps is the team who developed CBR Spotnana Services and are also tasked in maintaining and operating the application. Any Incidents and Change Requests for CBR Spotnana Services will be assigned to this assignment group.
+33000162872,CWT CCR API Support,5,0,0,0,0,0,5,2,My Team,no,Members of the group will provide technical support for CCR API
+33000162873,CWT CCRAPI Dev,4,0,0,0,0,0,4,2,My Team,no,Provides third tier Global support for issues and outages on Client Config Repository / Power Base API.
+33000162393,CWT CCRecon Support,6,0,0,0,0,0,6,2,My Team,no,Provided technical and application support to the CCrecon Business team to perform Credit Card Reconciliations for both government and commercial accounts
+33000162874,CWT CE IT Server Monitoring,2,0,0,0,0,0,2,2,My Team,no,Updated Manager as Matthew Hammond is no longer an active employee
+33000162394,CWT CENTRAL BILLING,4,0,0,0,0,0,4,2,My Team,no,Price Optimization - EMEA IT
+33000162875,CWT CERTIFICATION-USER,1,0,0,0,0,0,1,2,My Team,no,null
+33000162876,CWT CFS - FA,4,0,0,0,0,0,4,2,My Team,no,null
+33000162877,CWT CFS - Oracle,2,0,0,0,0,0,2,2,My Team,no,null
+33000163021,CWT CFT Approvers,2,0,0,0,0,0,2,2,My Team,no,null
+33000162878,CWT Change Management,1,0,0,0,0,0,1,2,My Team,no,Change Management Group
+33000162879,CWT CHANGE-ADMIN,1,0,0,0,0,0,1,2,My Team,no,The ServiceNow CHANGE-ADMIN group defines the group of users that have Admin access to the Change Management application.
+33000162880,CWT CHANGE-USER,1,0,0,0,0,0,1,2,My Team,no,The ServiceNow CHANGE-USER group defines the group of users that have write access to the Change Management application.
+33000162881,CWT CHAT-ADMIN,1,0,0,0,0,0,1,2,My Team,no,ServiceNow Chat admin group
+33000162882,CWT CHAT-USERS,1,0,0,0,0,0,1,2,My Team,no,"Group enabling role for allowing access to help desk chat via homepage.  The homepage is limited only to users with this role.  Not to be confused with role ""chat_user"" which provides access to Social-IT Chat functionality.  This role is for the callers to click on Help Desk Chat."
+33000162883,CWT China CAB,2,0,0,0,0,0,2,2,My Team,no,null
+33000162884,CWT ChinaITInfra,1,0,0,0,0,0,1,2,My Team,no,Support team for China Booking Platform - Windows specific
+33000162395,CWT CIP Support,5,0,0,0,0,0,5,2,My Team,no,"Support group for data translation and routed message distibution for Travel Orders, Profiles, Unused Airticket and Client data."
+33000162885,CWT CIS FR DQS SUPPORT,2,0,0,0,0,0,2,2,My Team,no,null
+33000162217,CWT CIS GLOBAL AUTOMATED FEED,5,0,0,0,0,0,5,2,My Team,no,null
+33000162398,CWT CIS GLOBAL PROGRAM MESSENGER,5,0,0,0,0,0,5,2,My Team,no,"Handle implimentation,support and training of Program Messenger Globally"
+33000162399,CWT CIS GLOBAL TPSS,6,0,0,0,0,0,6,2,My Team,no,null
+33000162400,CWT CIS LATAM PRODUCT SUPPORT,4,0,0,0,0,0,4,2,My Team,no,null
+33000162401,CWT CIS OSM DIGITAL IMPLEMENTATION,14,0,0,0,0,0,14,2,My Team,no,Implementation of CWT To Go Air
+33000162886,CWT CIS PH ONLINE SUPPORT,1,0,0,0,0,0,1,2,My Team,no,CIS LEVEL 2 SUPPORT FOR TSC
+33000162402,CWT CIS ROOMIT INTEGRATION,11,0,0,0,0,0,11,2,My Team,no,"The group will provide support for deployment of new Hotel products by providing project management, analyses and TSAP testing to ensure integration with TS environment. Also project coordination for deployment to clients."
+33000163022,CWT CITRIX Approver Group,6,0,0,0,0,0,6,2,My Team,no,Change Approvals Only
+33000162218,CWT CitrixAssignmentGroup,13,0,0,0,0,0,13,2,My Team,no,This will be a group used for an assignment group used by all Citrix Team members globally
+33000162887,CWT CKM-ADMIN,1,0,0,0,0,0,1,2,My Team,no,The CKM-ADMIN group defines the group of users that have admin access to the Knowledge Management application.
+33000162405,CWT Client Data Change,10,0,0,0,0,0,10,2,My Team,no,null
+33000162219,CWT Client Finance Setup,10,0,0,0,0,0,10,2,My Team,no,NORAM Client Finance Setup in Oracle & CMS (Contract Management System)
+33000162888,CWT Client Implementation PM,7,0,0,0,0,0,7,2,My Team,no,"Project Managers raise tickets to various teams. PM need to raise tickets, add notes, attach files and ask for status updates for these tickets"
+33000162220,CWT Client Policy and Knowledge Management,3,0,0,0,0,0,3,2,My Team,no,Client policy maintenance and set-up deliver and uphold global client policy standards for loading and maintenance and support new product developments by building knowledge articles in Counselor Platform to support our TX teams during the booking and fulfilment process.
+33000162410,CWT CLMS SECURITY,2,0,0,0,0,0,2,2,My Team,no,The 'CLMS Security' group is only for users to log a ServiceNow request if they require access to the CLMS application or are unable to reset their CLMS password themselves and need assistance with password reset.
+33000162221,CWT Cloud Engineering,34,0,0,0,0,0,34,2,My Team,no,Cloud Engineering group with EIT Infrastructure & Operations
+33000162222,CWT Cloud ERP Functional Support,6,0,0,0,0,0,6,2,My Team,no,CWT Oracle Cloud ERP Finance functional systems support.
+33000162223,CWT Cloud Operations,42,0,0,0,0,0,42,2,My Team,no,Cloud Operations
+33000162889,CWT Cloud Ops Vuln Mgmt,32,0,0,0,0,0,32,2,My Team,no,Cloud Operations Vulnerability Management
+33000162329,CWT CM Support EMEA,8,0,0,0,0,0,8,2,My Team,no,null
+33000162890,CWT CMDB-ADMIN,1,0,0,0,0,0,1,2,My Team,no,The CMDB-ADMIN group defines the group of users that have administrative rights to the Configuration Management application in Service-Now
+33000162891,CWT CMDB-PRIV,1,0,0,0,0,0,1,2,My Team,no,Group to provide the cmdb_priv role
+33000162892,CWT CMDB-USER,1,0,0,0,0,0,1,2,My Team,no,The CMDB-USER group defines the group of users that have read-only access to the configuration management application.
+33000162330,CWT CMS Specialist Group,6,0,0,0,0,0,6,2,My Team,no,"Group renamed per request from David Wiles 1/2/23. Was ""PM Specialist Group"""
+33000162893,CWT CN DEVELOPMENT,1,0,0,0,0,0,1,2,My Team,no,null
+33000162331,CWT CN INFRASTRUCTURE,1,0,0,0,0,0,1,2,My Team,no,null
+33000162224,CWT Collaboration,4,0,0,0,0,0,4,2,My Team,no,"Assignment Group for Collaboration tickets, will be used for Webex Meetings, Webex teams, and MS Teams"
+33000162894,CWT Colombia IT Help Desk,2,0,0,0,0,0,2,2,My Team,no,null
+33000162895,CWT Communication Plan Admin,1,0,0,0,0,0,1,2,My Team,no,null
+33000162896,CWT COMMUNICATION-ADMIN,1,0,0,0,0,0,1,2,My Team,no,ServiceNow Communication Application administration user group
+33000162897,CWT Compliance Managers,1,0,0,0,0,0,1,2,My Team,no,Users in charge of approving Policy Exceptions
+33000162898,CWT Conditional Script Writer,1,0,0,0,0,0,1,2,My Team,no,"This is the default group introduced by ServiceNow that grants members the snc_required_script_writer_permission. If the administrator has not configured scripting governance, new members will be automatically added to this group through the auto-provisioning job."
+33000162225,CWT Conferma Support,4,0,0,0,0,0,4,2,My Team,no,Conferma contact information in case of high severity incident:  Conferma (office hours); e-mail: support@conferma.zendesk.com o Telephone:  o UK - +44 (0) 844 815 3601 o US -1-855-290-6695 (toll free) o Singapore-800-120-3974 (toll free) o Austraila-1-800-447505 (toll free)  o Other markets can be added • 1st Level escalation  o Sarah Topping (Service Desk Manager) Sarah.Topping@Conferma.com +44 (0)161 447 6138 • 2nd Level escalation  o Abbi Daniels (Operations Manager) Abbi.Daniels@Conferma.com +44 (0)161 274 9052   Note:  Changed group email from GlobalCardProductsTeam2@carlsonwagonlit.com to virtualcardpayments@mycwt.com.  If not correct Diane Degenhardt will need to say what it should be or reset it back.
+33000162226,CWT Configuration Management,19,0,0,0,0,0,19,2,My Team,no,CMDB & Configuration Management
+33000162338,CWT Contact Center Products,10,0,0,0,0,0,10,2,My Team,no,Contact Center Product Support Group
+33000162339,CWT CONTACT TRACKING DEVELOPMENT,4,0,0,0,0,0,4,2,My Team,no,Contact Tracking Development Team
+33000162899,CWT Contact Tracking Global Approver Group,5,0,0,0,0,0,5,2,My Team,no,Change Approver Group for CI
+33000162900,CWT CONTRACT-ADMIN,1,0,0,0,0,0,1,2,My Team,no,ServiceNow Role Group giving contract admin rights.
+33000162901,CWT Corporate Financial Systems,9,0,0,0,0,0,9,2,My Team,no,Corporate Financial Systems
+33000162902,CWT COT CIS LATAM,2,0,0,0,0,0,2,2,My Team,no,null
+33000162903,CWT COT DK TRAVELER SERVICES EMEA,3,0,0,0,0,0,3,2,My Team,no,null
+33000162904,CWT COT ES TRAVELLER SERVICES EMEA,3,0,0,0,0,0,3,2,My Team,no,null
+33000162905,CWT COT IT TRAVELER SERVICES EMEA,4,0,0,0,0,0,4,2,My Team,no,null
+33000162906,CWT COT SE TRAVELER SERVICES EMEA,3,0,0,0,0,0,3,2,My Team,no,null
+33000162227,CWT Counselor Platform Product Management,5,0,0,0,0,0,5,2,My Team,no,"CXP Application  - development, major issues, bug fixes"
+33000162907,CWT CRC-C-CWTCAB-EMEA,2,0,0,0,0,0,2,2,My Team,no,CWT CHANGE MANAGEMENT EMEA
+33000162908,CWT CRM Approver Group,1,0,0,0,0,0,1,2,My Team,no,CRM Approver Group  - Database used by Sales
+33000162909,CWT Crowdstrike User,1,0,0,0,0,0,1,2,My Team,no,Role group to assign role x_crowd_vulnerabil.crowdstrike_vulnerability_response_user
+33000163035,CWT CSC CM Approvers Group,4,0,0,0,0,0,4,2,My Team,no,Approvers group for Client Maintenance
+33000162342,CWT CSC CM L3 Support Group,3,0,0,0,0,0,3,2,My Team,no,L3 Engineering Support for Client Maintenance and CWT Authentication
+33000162343,CWT CSC CM Support Group,5,0,0,0,0,0,5,2,My Team,no,Support group for Client Maintenance
+33000163036,CWT CSC Security Approvers Group,3,0,0,0,0,0,3,2,My Team,no,Approver group for PingFederate OAuth and CWT Authentication
+33000163037,CWT CSC Security Support Group,3,0,0,0,0,0,3,2,My Team,no,Support group for PingFederate OAuth and CWT Authentication
+33000163038,CWT CSM-AGENT,1,0,0,0,0,0,1,2,My Team,no,Role Group to apply the sn_customerservice_agent role.  For internal agent use of the CSM application.  Inherits lots of other roles.
+33000163039,CWT CSM-ITIL,1,0,0,0,0,0,1,2,My Team,no,"Role Group to apply the sn_customerservice_agent roles and the associated Incident, problem, request roles.   THIS GROUP IS A SPECIAL CASE GROUP TO MANAGE LICENSE ALLOCATIONS.  THESE USERS ARE NORMALLY IN THE ITIL USERS GROUP BUT IN ORDER TO MANAGE LICENSE COSTS WE ARE BORROWING FROM THE CSM LICENSE POOL.  AT THE END OF 2022 WE WILL RE-BUDGET AND APPROPRIATELY SIZE CSM-AGENT VS ITIL USERS AND WILL ELIMINATE THIS ROLE GROUP."
+33000162344,CWT CTS Admin Nordic Clients,4,0,0,0,0,0,4,2,My Team,no,"Create and maintain GDS company profiles, Power Base and Portrait for Nordic Military & Government / Nordic Soil clients"
+33000163040,CWT CTS DASHBOARD USER,71,0,0,0,0,0,71,2,My Team,no,Group is used for sharing dashboard reports.
+33000162345,CWT CTS New Client Handover,3,0,0,0,0,0,3,2,My Team,no,"Requests to Handover Clients to CTS submitted via Gateway Form ""Client Handover to CTS"""
+33000163041,CWT CTS Tech AT,5,0,0,0,0,0,5,2,My Team,no,This group provide navigation & technical break/fix support within CWTs external facing tools for all regional clients. They support customers using the local language as well as english.  REGION SCOPE: Austria
+33000162346,CWT CTS Tech BE,9,0,0,0,0,0,9,2,My Team,no,This group provide navigation & technical break/fix support within CWTs external facing tools for all regional clients. They support customers using the local language as well as english.  REGION SCOPE: Belgium and Luxembourg TEAM LEADER: Virginie Bertrand
+33000162347,CWT CTS Tech BR,5,0,0,0,0,0,5,2,My Team,no,This group provide navigation & technical break/fix support within CWTs external facing tools for all regional clients. They support customers using the local language as well as english.  REGION SCOPE:  Brazil
+33000162348,CWT CTS Tech CH,10,0,0,0,0,0,10,2,My Team,no,This group provide navigation & technical break/fix support within CWTs external facing tools for all regional clients. They support customers using the local language as well as english.  REGION SCOPE: Switzerland TEAM LEADER:  Virginie Bertrand
+33000162349,CWT CTS Tech DE,3,0,0,0,0,0,3,2,My Team,no,This group provide navigation & technical break/fix support within CWTs external facing tools for all regional clients. They support customers using the local language as well as english.  REGION SCOPE: Germany TEAM LEADER: Volker Zehrtisch
+33000162350,CWT CTS Tech DK,10,0,0,0,0,0,10,2,My Team,no,This group provide navigation & technical break/fix support within CWTs external facing tools for all regional clients. They support customers using the local language as well as english.  REGION SCOPE: Denmark
+33000162351,CWT CTS Tech EE,6,0,0,0,0,0,6,2,My Team,no,"This group provide navigation & technical break/fix support within CWTs external facing tools for all regional clients. They support customers using the local language as well as english.   REGION SCOPE: PL, HU, CZ"
+33000162352,CWT CTS Tech ES,9,0,0,0,0,0,9,2,My Team,no,This group provide navigation & technical break/fix support within CWTs external facing tools for all regional clients. They support customers using the local language as well as english.  REGION SCOPE: Spain TEAM LEADER: Silvia Camerani
+33000163042,CWT CTS TECH EU SOIL,8,0,0,0,0,0,8,2,My Team,no,This group provide client facing navigation & technical break/fix support for clients with a contractual agreed EU Soil Support in ENglish language REGION SCOPE: EU SOIL  Renamed CTS Tech EU mixed to SOIL on 4/8/25
+33000162353,CWT CTS Tech FI,10,0,0,0,0,0,10,2,My Team,no,This group provide navigation & technical break/fix support within CWTs external facing tools for all regional clients. They support customers using the local language as well as english.  REGION SCOPE: Finland
+33000162354,CWT CTS Tech FR,13,0,0,0,0,0,13,2,My Team,no,This group provide navigation & technical break/fix support within CWTs external facing tools for all regional clients. They support customers using the local language as well as english.  REGION SCOPE: France TEAM LEADER: Virginie Bertrand
+33000162355,CWT CTS Tech IN,24,0,0,0,0,0,24,2,My Team,no,This group provide navigation & technical break/fix support within CWTs external facing tools for all regional clients. They support customers using the local language as well as english.  REGION SCOPE: India TEAM LEADER: Poonam Rai
+33000162356,CWT CTS Tech IT,7,0,0,0,0,0,7,2,My Team,no,This group provide navigation & technical break/fix support within CWTs external facing tools for all regional clients. They support customers using the local language as well as english.  REGION SCOPE: Italy TEAM LEADER: Silvia Camerani
+33000162357,CWT CTS Tech LATAM,8,0,0,0,0,0,8,2,My Team,no,"This group provide navigation & technical break/fix support within CWTs external facing tools for all regional clients. They support customers using the local language as well as english.  REGION SCOPE: Argentina, Chile, Colombia, Mexico, Costa Rica & Partner Countries"
+33000162358,CWT CTS Tech NL,8,0,0,0,0,0,8,2,My Team,no,This group provide navigation & technical break/fix support within CWTs external facing tools for all regional clients. They support customers using the local language as well as english.  REGION SCOPE: Netherlands
+33000162359,CWT CTS TECH PH,37,0,0,0,0,0,37,2,My Team,no,"This group provide navigation & technical break/fix support in CWTs external facing tools for clients with multi service center/english only support.  REGION SCOPE: UK&IR, APAC, NORAM and Global MSC ENGLISH language only contracted clients. TEAM LEADERS: Anthony Gurdiel, Ma April Therese Barcelona, Roed Albert Malicdem"
+33000162360,CWT CTS Tech SE,10,0,0,0,0,0,10,2,My Team,no,This group provide navigation & technical break/fix support within CWTs external facing tools for all regional clients. They support customers using the local language as well as english.  REGION SCOPE: Sweden
+33000163043,CWT CTS TECH TOKENIZATION,5,0,0,0,0,0,5,2,My Team,no,Case resolution for Tokenization Issues
+33000163044,CWT CTS Tech US Soil,3,0,0,0,0,0,3,2,My Team,no,This group provide navigation & technical break/fix within CWT external facing tools as well as  client maintenence for US SOIL ONLY contracts. All members are US citizens.  REGION SCOPE: United States
+33000163045,CWT CTS Urgent Care,10,0,0,0,0,0,10,2,My Team,no,This group is responsible for the CTS escalation process.   SCOPE: Urgent ticket triaging & escalations.  REGION SCOPE: Global TEAM LEADER: Roed Albert Malicdem
+33000163046,CWT Customer Care ACCENTURE FTS,22,0,0,0,0,0,22,2,My Team,no,"This group is for the Accenture Customer Care teams in MNL, PL, US supporting Follow The Sun service structure.   April 4, 2026: Manager updated from Darlene Banista to Melanie Low.  RITM0540727"
+33000163047,CWT Customer Care APAC Global,11,0,0,0,0,0,11,2,My Team,no,"This group is for APAC Customer Care supporting Global clients e.g. Genpact, Booking.com for Business  April 4, 2026: Manager updated from Darlene Banista to Melanie Low.  RITM0540727"
+33000163048,CWT Customer Care APAC Shared,9,0,0,0,0,0,9,2,My Team,no,"This group is for APAC Customer Care supporting shared clients  April 4, 2026: Manager updated from Darlene Banista to Melanie Low.  RITM0540727"
+33000163049,CWT Customer Care BENELUX,13,0,0,0,0,0,13,2,My Team,no,This group is for Customer Care BENELUX supporting ALL BENELUX clients including RSC Belgium's
+33000163050,CWT Customer Care China,2,0,0,0,0,0,2,2,My Team,no,"This group is for China Customer Care team  April 4, 2026: Manager updated from Laura Lu to Melanie Low.  RITM0540727"
+33000163051,CWT Customer Care DACH,13,0,0,0,0,0,13,2,My Team,no,This group is for DACH Customer Care supporting ALL clients
+33000163052,CWT Customer Care FRANCE,10,0,0,0,0,0,10,2,My Team,no,This group is for FRANCE Customer Care supporting ALL clients
+33000163053,CWT Customer Care FTS AMERICAS,23,0,0,0,0,0,23,2,My Team,no,This group is for Customer Care teams in AMERICAS supporting Follow The Sun service structure (exc. Accenture and Meta)
+33000163054,CWT Customer Care FTS APAC,9,0,0,0,0,0,9,2,My Team,no,"This group is for Customer Care teams in APAC supporting Follow The Sun service structure (exc. Accenture and Meta)  April 4, 2026: Manager updated from Darlene Banista to Melanie Low.  RITM0540727"
+33000163055,CWT Customer Care FTS EMEA,14,0,0,0,0,0,14,2,My Team,no,This group is for Customer Care teams in EMEA supporting Follow The Sun service structure (exc. Accenture and Meta)
+33000163056,CWT Customer Care ITALY,13,0,0,0,0,0,13,2,My Team,no,This group is for ITALY Customer Care supporting ALL clients
+33000163057,CWT Customer Care LATAM,7,0,0,0,0,0,7,2,My Team,no,This group is for LATAM Customer Care supporting ALL clients
+33000163058,CWT Customer Care META Global,23,0,0,0,0,0,23,2,My Team,no,This group is for Customer Care agents supporting META globally.
+33000163059,CWT Customer Care NORAM Shared,31,0,0,0,0,0,31,2,My Team,no,This group is for NORAM Customer Care agents supporting Shared clients
+33000163010,CWT Customer Care NORDICS,13,0,0,0,0,0,13,2,My Team,no,"This group is for NORDICS Customer Care supporting ALL clients in Denmark, Finland & Sweden"
+33000163011,CWT Customer Care PL GSC Shared,14,0,0,0,0,0,14,2,My Team,no,This group if for PL GSC Customer Care team supporting Shared clients
+33000163012,CWT Customer Care SPAIN,13,0,0,0,0,0,13,2,My Team,no,This group is for SPAIN Customer Care supporting ALL clients
+33000163013,CWT Customer Care UKIE,13,0,0,0,0,0,13,2,My Team,no,This group is for UKIE Customer Care supporting ALL clients
+33000163014,CWT Customer Care UN PL GSC,9,0,0,0,0,0,9,2,My Team,no,This group is for GSC POLAND Customer Care agents supporting UN (previously HP)
+33000163015,CWT Customer Experience Manila,2,0,0,0,0,0,2,2,My Team,no,Customer Experience Manila
+33000162361,CWT CUSTOMER SETTLEMENT,5,0,0,0,0,0,5,2,My Team,no,null
+33000162526,CWT CXP Admin Group,9,0,0,0,0,0,9,2,My Team,no,Support CX Platform Issues
+33000162987,CWT CXP Americas Support,5,0,0,0,0,0,5,2,My Team,no,Regional support group for CXP - team handles questions and requests related to Counsellor Platform. Focuses on technical queries and problems.
+33000162988,CWT CXP Dashboard Report View,1,0,0,0,0,0,1,2,My Team,no,null
+33000162989,CWT CXP Development,6,0,0,0,0,0,6,2,My Team,no,This team will deal with creating new User Stories and defects based on Production Support Tickets raised.
+33000162527,CWT CXP Email Channel Optimisation,10,0,0,0,0,0,10,2,My Team,no,Participation in the governance and exception approval processes surrounding email channel - Counselor Platform
+33000162528,CWT CXP L3 Global,6,0,0,0,0,0,6,2,My Team,no,On-Call Support for Pega / CXP Application
+33000162990,CWT CXP Robotics,4,0,0,0,0,0,4,2,My Team,no,Robotic team working to ensure Counselor Platform can integrate items with our current desktop tools
+33000162529,CWT Cyber Security,13,0,0,0,0,0,13,2,My Team,no,"Cyber Security group is involved high severity security incident investigations (security incident severity 1, 2). Updated group email address per Leif Wilson 2/27/25. Removed group email address  per Matt Brandle 2/28/2025 (DTS)"
+33000162530,CWT CZ Field IT,2,0,0,0,0,0,2,2,My Team,no,Updated Manager as Matthew Hammond is no longer an active employee
+33000162531,CWT D&G Analytics DevOps and Support,3,0,0,0,0,0,3,2,My Team,no,"This group will  be dedicated  to support the D&G Analytics Platform. The following will be the main tasks of the team:  1. Application  Administration 2. Production Deployment 3. Issues and Incident Management 4. Platform Monitoring and Automation   This will be a separate group from 'CWT Analytics DevOps and Support'  team, which is the primary support team for Commercial Analytics Platform."
+33000162991,CWT D&G Data Access Approver Group,1,0,0,0,0,0,1,2,My Team,no,Group created to provide approval for the M&G Data Access Requet form
+33000162532,CWT D&G Resolve Access,1,0,0,0,0,0,1,2,My Team,no,Group for handling Resolve Access Requests
+33000162443,CWT D&G SECURITY,6,0,0,0,0,0,6,2,My Team,no,null
+33000163810,CWT DACH Rail,0,0,0,0,0,0,0,2,My Team,no,
+33000162369,CWT Daily Ops Report,1,0,0,0,0,0,1,2,My Team,no,This will be the group to receive the scheduled daily operations reports
+33000162370,CWT Data & Analytics Product Management,7,0,0,0,0,0,7,2,My Team,no,null
+33000163023,CWT Data Delivery (CDD) Approvers,2,0,0,0,0,0,2,2,My Team,no,CWT Data Delivery (CDC) is an scheduling application with a web interface. Stores and processes data from different sources in predefined data layout. Sends documents and files by emails or SFTP
+33000162371,CWT Data Exchange,3,0,0,0,0,0,3,2,My Team,no,null
+33000162204,CWT Data Implementation & Support,6,0,0,0,0,0,6,2,My Team,no,Implementation & Support for Glory Data   I'm opening on behalf of Thibault Gely on this team
+33000162446,CWT DATA INTEGRITY IQ,5,0,0,0,0,0,5,2,My Team,no,null
+33000162992,CWT Data Logistics Administration,4,0,0,0,0,0,4,2,My Team,no,null
+33000162993,CWT Data Logistics Development,5,0,0,0,0,0,5,2,My Team,no,null
+33000162372,CWT Datacenter Operations,5,0,0,0,0,0,5,2,My Team,no,"Switch  The SUPERNAP Team 24 Hours Assistance 702.267.6602 | 866.229.5151 support@supernap.com CWT SPOC Information: Kirk Kamm Chong Tian Soo   **Switch can be engaged by email or phone 24x7 for all support requests including ""Smart Hands"".  All requests are routed to the CWT SPOC's for authorization."
+33000162447,CWT DataLake Product Team,5,0,0,0,0,0,5,2,My Team,no,This assignment Group is required by the Datalake Operations / Admins team in order to receive tickets related to incidents or requests for Data Lake.
+33000162448,CWT DCC Deimplementation,38,0,0,0,0,0,38,2,My Team,no,"This group is assigned offical Client Deimplementation requests, submitted by stakeholders through the external Gateway form."
+33000162449,CWT DCC Designated Site Admin maintenance,22,0,0,0,0,0,22,2,My Team,no,"Client Maintenance, Setup, Configuration Changes for clients contracted with Designated Site Admin."
+33000162450,CWT DCC Global Online Managers,14,0,0,0,0,0,14,2,My Team,no,"Client Maintenance, Setup, Configuration Changes for clients contracted with Global Online Managers."
+33000162451,CWT DCC myCWT maintenance,7,0,0,0,0,0,7,2,My Team,no,"""This group manages set-up and client configuration requests for myCWT.  IMPORTANT - this group does not provide ANY technical support for myCWT. That is managed by CTS Tech teams. """
+33000162452,CWT DCC OBT maintenance,25,0,0,0,0,0,25,2,My Team,no,"This group manages set-up and client configuration requests in Online Booking Tools (OBT). Scope is APAC, NORAM, LATAM and Global client accounts.  IMPORTANT - this group does not provide ANY technical support for OBTs. That is managed by CTS Tech teams."
+33000162453,CWT DCC Online Services maintenance,4,0,0,0,0,0,4,2,My Team,no,This group manages set-up and client configuration requests for myCWT Itinerary.  IMPORTANT - this group does not provide ANY technical support for above products. That is managed by CTS Tech teams.
+33000162454,CWT DCC Portrait maintenance,7,0,0,0,0,0,7,2,My Team,no,This group manages set-up and client configuration requests in CWT Portrait.  IMPORTANT - this group does not provide ANY technical support for Portrait. That is managed by CTS Tech teams.
+33000162455,CWT DCC Project & Product Onboarding,4,0,0,0,0,0,4,2,My Team,no,"This group is assigned offical project and product onboarding, submitted by stakeholders through the external Gateway form."
+33000162456,CWT DCC TECH PH BFT,35,0,0,0,0,0,35,2,My Team,no,"'-- ONLY TO BE USED BY CTS TECH MANILA EMPLOYEES. --  Jan 14, 2025: Renamed from CTS TECH PH BFT to DCC TECH PH BFT per SCTASK0478932 (Regine Joyce De Leon)"
+33000162205,CWT DDB GLOBAL SUPPORT,3,0,0,0,0,0,3,2,My Team,no,null
+33000162459,CWT DDO APAC,14,0,0,0,0,0,14,2,My Team,no,null
+33000162460,CWT DDO DE,9,0,0,0,0,0,9,2,My Team,no,null
+33000162206,CWT DDO EMEA,13,0,0,0,0,0,13,2,My Team,no,null
+33000162463,CWT DDO Global Glory Corrections,7,0,0,0,0,0,7,2,My Team,no,DDO Global Glory Corrections - This group will be used by DDO Global Glory corrections team that is base in India. All Glory corrections related GREQ tickets will get assign to this group.
+33000162464,CWT DDO GLOBAL IMPLEMENTATIONS,4,0,0,0,0,0,4,2,My Team,no,DQS tasks for client implementation and maintenance
+33000162465,CWT DDO LATAM,11,0,0,0,0,0,11,2,My Team,no,null
+33000162466,CWT DDO NORAM,13,0,0,0,0,0,13,2,My Team,no,"NORAM Information Delivery is being renamed to DQS NORAM to fall in line with the new organizational structure for this team.  Eventually, the NORAM Information Delivery team assignment group will be disabled."
+33000162467,CWT DE IT DEVELOPMENT,2,0,0,0,0,0,2,2,My Team,no,Monitor and control the DE-fileservice data flow from IT side:  WINGS - MOVEit and servers involved in process.
+33000162468,CWT DEB.STAMMDATEN,1,0,0,0,0,0,1,2,My Team,no,Price Optimization EMEA - AT/DE
+33000162994,CWT Decision Tables Admin,1,0,0,0,0,0,1,2,My Team,no,null
+33000162469,CWT Desktop Configuration,6,0,0,0,0,0,6,2,My Team,no,"June 30, 2025: Group renamed from TXC L2 POWER BASE to Desktop Configuration"
+33000162207,CWT Desktop Support,6,0,0,0,0,0,6,2,My Team,no,"Global 2nd Level Support for Power Desktops: Power Express/Power Turbo and data maintenance of Power Base and Power Library. Global team owning GDS Line Definitions maintenance on all GDS and Sabre Templates. Alternative SN group: CIS EMEA PRODUCTS RZE  June 30, 2025: Group renamed from TXC L2 POWER DESKTOPS to Desktop Support"
+33000162472,CWT Desktop Support - Power Hotel,6,0,0,0,0,0,6,2,My Team,no,"June 30, 2025: Group renamed from TXC L2 Power Hotel to Desktop Support - Power Hotel"
+33000162995,CWT DESKTOP-SOFTWARE-USER,1,0,0,0,0,0,1,2,My Team,no,Role group for desktop software maintenanace
+33000162373,CWT Digital Air Booking T3,13,0,0,0,0,0,13,2,My Team,no,"CWT Digital Air Booking T3 group is in charge of Air Booking support for web and mobile (CWT To Go). Development resources are reserved for resolving only the most complex issues which require product /platfrom code review , code invsetigation, code change and debugging"
+33000162374,CWT Digital Email Itinerary & E-ticket T3,5,0,0,0,0,0,5,2,My Team,no,null
+33000162375,CWT Digital Flight Status T3,4,0,0,0,0,0,4,2,My Team,no,null
+33000162473,CWT Digital Implementation - OBT,28,0,0,0,0,0,28,2,My Team,no,"Digital Implementation Team based in APAC and responsible for Portrait & OBT Implementations for New and Existing Clients  Renamed group from Digital Implementation - OBT APAC to ""Digital Implementation - OBT"" 5/8/23 per Tenille."
+33000162376,CWT Digital myCWT Car Booking T3,4,0,0,0,0,0,4,2,My Team,no,This group is tier 3 support for myCWT Car Booking application available on iOS
+33000162377,CWT Digital myCWT IDM T3,5,0,0,0,0,0,5,2,My Team,no,"CWT Digital myCWT IDM T3 is a group responsible for Tier 3 support for cases Level 2 support is unable to resolve on their own. Development resources are reserved for resolving only the most complex issues which require code review , code change, defects resolution for Sign in, registration, access issues and password related flows, SSO, etc."
+33000162378,CWT Digital myCWT Mobile T3,6,0,0,0,0,0,6,2,My Team,no,"CWT Digital myCWT Mobile T3 group is in charge of myCWT Mobile App (myCWT Mobile \ CWT To Go) support for cases Level 2 support is unable to handle. Development resources are reserved for resolving only the most complex issues which require product /platfrom code review , code invsetigation, code change and debugging"
+33000162379,CWT Digital myCWT Website T3,6,0,0,0,0,0,6,2,My Team,no,"CWT Digital myCWT Web development group are in charge of myCWT Web development . Development resources are reserved for resolving only the most complex issues invsetigation which require product /platfrom code review , code invsetigation, code change and debugging"
+33000162380,CWT Digital Online Itinerary T3,4,0,0,0,0,0,4,2,My Team,no,"CWT Digital Itinerary development group are in charge of Itinerary development (Online Itinerary, concur E-receipts)  Development resources are reserved for resolving only the most complex issues  which require product /platfrom code review , code invsetigation, code change and debugging"
+33000162381,CWT Digital Operations,13,0,0,0,0,0,13,2,My Team,no,Groups for all digital production 24/7 operations issues (either servers or applications)
+33000162533,CWT Digital Portrait NCA,2,0,0,0,0,0,2,2,My Team,no,This is needed to manage all Non Code Assets content of the portrait database
+33000162229,CWT Digital Portrait T3,5,0,0,0,0,0,5,2,My Team,no,"CWT Digital Portrait T3 group is in charge of CWT Portrait support. Development resources are reserved for resolving only the most complex issues invsetigation which require product /platfrom code review , code invsetigation, code change and debugging."
+33000162536,CWT Digital Pre-Departure Email T3,4,0,0,0,0,0,4,2,My Team,no,"T3 group of CWT's Pre-Departure emails. Only tickets related to this issue that requires development intervention (code fix, database configuration, UI issues etc.) should be assign to this group from L2 Support only."
+33000162537,CWT Digital Program Messenger T3,5,0,0,0,0,0,5,2,My Team,no,"CWT Digital Program Messenger T3 group is in charge of Program Messenger support for cases Level 2 support is unable to handle. Development resources are reserved for resolving only the most complex issues which require product /platfrom code review , code invsetigation, code change and debugging"
+33000162538,CWT Digital RoomIt and Hotel Booking T3,4,0,0,0,0,0,4,2,My Team,no,"CWT Digital RoomIt development group are in charge of RoomIt mobile and web development . Development resources are reserved for resolving only the most complex issues invsetigation which require product /platfrom code review , code invsetigation, code change and debugging"
+33000163377,CWT Digital Security,0,0,0,0,0,0,0,2,My Team,no,
+33000162539,CWT Digital SSO Implementation T3,5,0,0,0,0,0,5,2,My Team,no,CWT SSO implementation group are in charge of myCWT identity management Ping SSO inbound and outbound implementation. Development resources are reserved for resolving only the most complex issues related to Ping SSO implementation
+33000162996,CWT Discovery Admin,1,0,0,0,0,0,1,2,My Team,no,null
+33000162474,CWT DnA Product Management,4,0,0,0,0,0,4,2,My Team,no,P&T Data Management including enhancements and explanations on business rules and logic applied to reporting data used in Analytics and Analytiqs.
+33000162997,CWT DNA.IQ.DEV,6,0,0,0,0,0,6,2,My Team,no,Active Directory Group for the AnalytIQs Development Team.
+33000163024,CWT DOC BANK SUPPORT - M & G,4,0,0,0,0,0,4,2,My Team,no,Support of Document Bank ticket tracking system (DnG)
+33000162475,CWT DOC BANK-ONCALL,4,0,0,0,0,0,4,2,My Team,no,null
+33000163025,CWT Document Bank Approvers,2,0,0,0,0,0,2,2,My Team,no,Approver Group
+33000162540,CWT DOCUMENT BANK SUPPORT,7,0,0,0,0,0,7,2,My Team,no,Support of Document Bank ticket tracking system (Comm)
+33000162476,CWT DQS CHINA,1,0,0,0,0,0,1,2,My Team,no,China local team who manage Glory errors and local Setups
+33000162208,CWT E2 DEVELOPMENT,15,0,0,0,0,0,15,2,My Team,no,"This team is on-call support for E2 Solutions web application and subsystems including GetThere, RNT, Integration and government agency support including Department of State (DOS), Department of Education (DOED), Department of Labor (DOL), Social Security Administration (SSA) and other agencies under the E-Travel Services (ETS) contract."
+33000162479,CWT E2 PRODUCTION SUPPORT,2,0,0,0,0,0,2,2,My Team,no,null
+33000162480,CWT E2VoucherFinanceGroup,2,0,0,0,0,0,2,2,My Team,no,"Application used exclusively by the M&G Finance group to import, store and export E2 voucher data. This data is ultimately used to create audit trails and billing documents for customers."
+33000162998,CWT EA Domain Approvers,3,0,0,0,0,0,3,2,My Team,no,This group is used is Approver/Assignment group for the domain cleanup effort.
+33000162999,CWT ECMDB Admin,1,0,0,0,0,0,1,2,My Team,no,Role group providing the ecmdb_admin role. This role is required in order to update or delete CMDB records.
+33000162230,CWT EDE,6,0,0,0,0,0,6,2,My Team,no,NORAM EDE MOVEit Administration
+33000163000,CWT EE Field IT,2,0,0,0,0,0,2,2,My Team,no,null
+33000163001,CWT EG Change Management,3,0,0,0,0,0,3,2,My Team,no,null
+33000162481,CWT EG PRODUCT MGMT SUPPORT,2,0,0,0,0,0,2,2,My Team,no,null
+33000163002,CWT EIT Corp Systems Approvers,2,0,0,0,0,0,2,2,My Team,no,This group will be responsible for the ongoing domain cleanup process and be part of the sign off from ALL teams that use domains to validate / approve the domains that are marked for sunset.
+33000162543,CWT EIT DnA Data Integrity L3,3,0,0,0,0,0,3,2,My Team,no,Support DnA application
+33000163361,CWT EIT DnA Platform Admin L3,0,0,0,0,0,0,0,2,My Team,no,
+33000162482,CWT EIT ENT TOOLS,7,0,0,0,0,0,7,2,My Team,no,Enterprise Tools Team
+33000163003,CWT EIT FTS Leadership,5,0,0,0,0,0,5,2,My Team,no,null
+33000163004,CWT EIT Leadership Team,2,0,0,0,0,0,2,2,My Team,no,Changed Manager of this from John Pelant to Brian Toso.  DO NOT CHANGE THE MANAGER TO JOHN PELANT!  This will cause him to receive certificate renewal notifications.  He does not like them.
+33000163005,CWT EIT LT Reporting,7,0,0,0,0,0,7,2,My Team,no,Group used to share ServiceNow reporting & dashboards only
+33000163006,CWT EIT Process & Governance,1,0,0,0,0,0,1,2,My Team,no,Group for EIT Service Management IT Process & Governance team
+33000163007,CWT EIT Service Management,1,0,0,0,0,0,1,2,My Team,no,"Used for EIT Service Management to share dashboards, Task boards etc"
+33000163008,CWT Electronic Invoice _ LATAM,7,0,0,0,0,0,7,2,My Team,no,null
+33000163026,CWT EMEA Avaya Approvers,7,0,0,0,0,0,7,2,My Team,no,EMEA Avaya changes approval group. EMEA group to perform same role as CWT Avaya Approvers (NORAM)
+33000162483,CWT EMEA BPG Counselor Tools,7,0,0,0,0,0,7,2,My Team,no,This group is the cross-country group used to maintain and implement local tools dedicated to travel agents
+33000162484,CWT EMEA BPG Service,4,0,0,0,0,0,4,2,My Team,no,null
+33000162485,CWT EMEA EDE,6,0,0,0,0,0,6,2,My Team,no,EDE MoveIT Administration
+33000162209,CWT EMEA IT AS/400 SYS ENGINEERING,3,0,0,0,0,0,3,2,My Team,no,null
+33000163009,CWT EMEA IT BELUX CAB,3,0,0,0,0,0,3,2,My Team,no,Updated Manager as Matthew Hammond is no longer an active employee
+33000163105,CWT EMEA IT COE LANDESK,1,0,0,0,0,0,1,2,My Team,no,Updated Manager as Matthew Hammond is no longer an active employee
+33000163106,CWT EMEA IT EG CAB,3,0,0,0,0,0,3,2,My Team,no,EG CAB
+33000163107,CWT EMEA IT GIP,1,0,0,0,0,0,1,2,My Team,no,null
+33000163108,CWT EMEA IT IT CAB,4,0,0,0,0,0,4,2,My Team,no,IT CAB
+33000163109,CWT EMEA IT NL CAB,3,0,0,0,0,0,3,2,My Team,no,Updated Manager as Matthew Hammond is no longer an active employee
+33000162488,CWT EMEA IT Request Fulfilment,22,0,0,0,0,0,22,2,My Team,no,This group will be used for EMEA purposes- requests and incidents coming from local countries
+33000162489,CWT EMEA IT WINGS,2,0,0,0,0,0,2,2,My Team,no,null
+33000163027,CWT EMEA_ES Physical Security,3,0,0,0,0,0,3,2,My Team,no,Employee Badge Provisioning Spain
+33000163028,CWT EMEA_FR Physical Security,3,0,0,0,0,0,3,2,My Team,no,Employee Badge Provisioning Framce
+33000163029,CWT EMEA_IL Physical Security,3,0,0,0,0,0,3,2,My Team,no,Employee Badge Provisioning Isreal
+33000163030,CWT EMEA_PL Physical Security,3,0,0,0,0,0,3,2,My Team,no,Employee Badge Provisioning Poland
+33000162210,CWT Enhance ME User Support,4,0,0,0,0,0,4,2,My Team,no,"The purpose of this group is to field and service requests from super users globally related to maintenance, system issues and user access requests for the technology supporting Meetings and Events.  Current scope includes Enhance ME, Meetingbox, Cvent and MER (Meetings and Events Repository).  July 9, 2024: RITM0341292: Update Manager from Ela Buda-Koszowska to Stacie Halladay"
+33000163031,CWT Enterprise Architecture,6,0,0,0,0,0,6,2,My Team,no,null
+33000163110,CWT ERP - MarkView Debit Memo Gov,3,0,0,0,0,0,3,2,My Team,no,Approved after changed to Comment User
+33000163111,CWT ERP IT COA,2,0,0,0,0,0,2,2,My Team,no,null
+33000162149,CWT ERP IT Fulfillment,4,0,0,0,0,0,4,2,My Team,no,"Fulfillment of ERP Requests - all team members for ERP IT Team  March 31, 2023 - Added Group email and unchecked 'Include members' per request from Diana Fieldseth."
+33000163112,CWT ERP IT GL Forms,4,0,0,0,0,0,4,2,My Team,no,null
+33000162150,CWT ERP IT Governance,4,0,0,0,0,0,4,2,My Team,no,null
+33000163113,CWT ERP IT PPM Governance,5,0,0,0,0,0,5,2,My Team,no,null
+33000162498,CWT ERP IT SUPPORT,4,0,0,0,0,0,4,2,My Team,no,CWT ORACLE FINANCIAL APPLICATIONS SUPPORT
+33000162499,CWT ERP IT Training,4,0,0,0,0,0,4,2,My Team,no,used to assign training materials when fulfilling Oracle EBS access requests
+33000163114,CWT ERP PROJECT SETUP,3,0,0,0,0,0,3,2,My Team,no,null
+33000163115,CWT ERROR LOG MANAGEMENT TEAM,1,0,0,0,0,0,1,2,My Team,no,null
+33000163116,CWT ES OPS IMPLEMENTACION,3,0,0,0,0,0,3,2,My Team,no,null
+33000163117,CWT ES OPS PERFILES,3,0,0,0,0,0,3,2,My Team,no,null
+33000163118,CWT ES WINGS 2ND LEVEL,3,0,0,0,0,0,3,2,My Team,no,null
+33000162500,CWT Escalation Management Team,23,0,0,0,0,0,23,2,My Team,no,Global Major Incident Hotline -Respond to Escalated calls for highly severity incidents  Major Incident Recovery Assessment and Business Impact Service Recovery Coordination and Communication Event Monitoring Incident SLA's (P3 and P4)
+33000163119,CWT Escalation Management Team On-Call,1,0,0,0,0,0,1,2,My Team,no,Escalation Coordinators weekend on-call support list
+33000162501,CWT ETG API Tech Team,10,0,0,0,0,0,10,2,My Team,no,null
+33000163090,CWT ETG Manila Automation Admins,5,0,0,0,0,0,5,2,My Team,no,A group for the ETG Manila Automation users that will be assigned as admins for Windows Server instances that runs the automation systems.
+33000162544,CWT ETL DEVELOPMENT,7,0,0,0,0,0,7,2,My Team,no,null
+33000163091,CWT EUC - Leadership,2,0,0,0,0,0,2,2,My Team,no,Validates any non standard hardware or software requests
+33000162502,CWT EUT Citrix,13,0,0,0,0,0,13,2,My Team,no,EUT Citrix Incidents Changes
+33000163092,CWT EUT Citrix Assignment Group,6,0,0,0,0,0,6,2,My Team,no,Assignment group for Changes and Service Requests
+33000163093,CWT EUT Desktop Experience Monitoring,3,0,0,0,0,0,3,2,My Team,no,EIT EUS Desktop Experience Monitoring
+33000163094,CWT EUT Mac OS,4,0,0,0,0,0,4,2,My Team,no,EIT EUS Mac OS incidents Assignment group for Incidents
+33000162602,CWT EUT Mac OS Assignment Group,3,0,0,0,0,0,3,2,My Team,no,EIT EUS Assignment group for Changes and Service Requests Support Group for Jamf Pro CI
+33000162151,CWT EUT MEMCM (SCCM),6,0,0,0,0,0,6,2,My Team,no,Assignment group for Incidents  Team Lead: Scott Carroll ITLT: Carrie Mcauley Next Level Leader: Brian Toso
+33000162605,CWT EUT MEMCM (SCCM) Assignment Group,5,0,0,0,0,0,5,2,My Team,no,EIT EUS MEMCM (SCCM) Chang & Service Req Assignment group for Changes and Service Requests
+33000163095,CWT EUT MEMMI (Intune),5,0,0,0,0,0,5,2,My Team,no,EIT EUS MEMMI Intune Incidents Assignment group for Incidents
+33000163096,CWT EUT MEMMI (Intune) Assignment Group,4,0,0,0,0,0,4,2,My Team,no,EIT EUS MEMMI Intune Chang & Service Req Assignment group for Changes and Service Requests
+33000163097,CWT EUT Thin Clients,4,0,0,0,0,0,4,2,My Team,no,EUT Thin Clients Incidents
+33000163098,CWT EUT Thin Clients Assignment Group,1,0,0,0,0,0,1,2,My Team,no,EUT Thin Clients Assignment Group Changes
+33000162606,CWT EUT Windows OS,5,0,0,0,0,0,5,2,My Team,no,EIT EUS Windows OS Incident Assignment group for Incidents
+33000163099,CWT EUT Windows OS Assignment Group,4,0,0,0,0,0,4,2,My Team,no,EIT EUS Win OS Chang & Service Req Assignment group for Changes and Service Requests
+33000163100,CWT EUT Windows Virtual Desktop,4,0,0,0,0,0,4,2,My Team,no,EUT Windows Virtual Desktop Assignment Group Changes
+33000163101,CWT EUT WVD Assignment Group,4,0,0,0,0,0,4,2,My Team,no,EUT Windows Virtual Desktop Changes and  Assignment group for Changes and Service Requests
+33000163102,CWT Event Management,1,0,0,0,0,0,1,2,My Team,no,null
+33000163103,CWT EVENT MANAGEMENT ADMIN,1,0,0,0,0,0,1,2,My Team,no,Rold group for applying the evt_mgmt_admin role
+33000163104,CWT EVENT MANAGEMENT USER,1,0,0,0,0,0,1,2,My Team,no,Role group for applying the evt_mgmt_user role
+33000163060,CWT Executive CAB,27,0,0,0,0,0,27,2,My Team,no,The group of leaders who make up the Executive CAB
+33000163061,CWT External Kong approver,3,0,0,0,0,0,3,2,My Team,no,External Kong gateway approver group
+33000163062,CWT False Positive Approver,1,0,0,0,0,0,1,2,My Team,no,The group contains the approvers to approve the false positive requests of remediation tasks and vulnerable items.
+33000163063,CWT FC BRAZIL,3,0,0,0,0,0,3,2,My Team,no,null
+33000162607,CWT FIELD IT OPS SATO EMEA,10,0,0,0,0,0,10,2,My Team,no,null
+33000162152,CWT Finance Systems Development - APAC,10,0,0,0,0,0,10,2,My Team,no,"This teams provides development and incident support for Travcom, LTF, E-Invoice and other Finanace IT support in APAC."
+33000162610,CWT Finance-Singapore,2,0,0,0,0,0,2,2,My Team,no,null
+33000163064,CWT Financeiro ADMs & EOs BR,4,0,0,0,0,0,4,2,My Team,no,Esse grupo é quem vai disparar os chamados sobres os registros
+33000162611,CWT FINANCIAL APP SUPPORT/CLMS,6,0,0,0,0,0,6,2,My Team,no,Please set up a ticket to update the attached SR for new NG-Rebate Transaction Fees and Updated CLIN's.   CWT Service Now: FINANCIAL APP SUPPORT/CLMS Product Type (Configuration Item): Financial Applications (Misc.)  Problem Type: ACCOUNTING REPORTS (MISC)
+33000162612,CWT FINANCIAL APP SUPPORT/Enhanced CC Extracts,2,0,0,0,0,0,2,2,My Team,no,"This group provides set up and support for the Enhanced CC data extracts for Visa, MC, Diners Club, and American Express client accounts. Sandeep Kalayankar provided new group manager 9/13/23 Ramesh Nallavolu"
+33000162613,CWT FINANCIAL APP SUPPORT/GOVERNMENT,3,0,0,0,0,0,3,2,My Team,no,Provide support for the GTS application (Government Group Travel System).  Provide support for the Navy NROWS application and job flow.  Provides support for all government reporting requests from various CWT government personnel.
+33000163065,CWT FIT Refresh Project,1,0,0,0,0,0,1,2,My Team,no,null
+33000163066,CWT Flow Designer Manager,1,0,0,0,0,0,1,2,My Team,no,null
+33000163067,CWT Follow Up Feature Users,1,0,0,0,0,0,1,2,My Team,no,null
+33000163068,CWT FR IMPLEMENTATION,4,0,0,0,0,0,4,2,My Team,no,null
+33000162153,CWT FR IT AS400,4,0,0,0,0,0,4,2,My Team,no,"Access users management for TRAVYS and JDE. Manage ApplePO, TRAVYS and JDE update (package, release,...)"
+33000163069,CWT FR IT FINANCE QOA,4,0,0,0,0,0,4,2,My Team,no,null
+33000162592,CWT FR IT SD CORRESPONDING,9,0,0,0,0,0,9,2,My Team,no,null
+33000163070,CWT FR IT SD USER ADMINISTRATION,2,0,0,0,0,0,2,2,My Team,no,null
+33000163071,CWT FR IT Smartphones,2,0,0,0,0,0,2,2,My Team,no,Updated Manager as Matthew Hammond is no longer an active employee
+33000163072,CWT FR ONLINE PROJECTS,7,0,0,0,0,0,7,2,My Team,no,null
+33000162593,CWT FR WINGS 2ND LEVEL,7,0,0,0,0,0,7,2,My Team,no,Group in charge of WINGS Setup management for France only
+33000163073,CWT frank,2,0,0,0,0,0,2,2,My Team,no,Procurement ordering hardware & Software working with IT to provide information between the vendor and IT.
+33000163074,CWT FTS AR Retrieval,2,0,0,0,0,0,2,2,My Team,no,This group will receive automated tasks for retrieve equipment from leavers;
+33000162594,CWT FTS AU Retrieval,5,0,0,0,0,0,5,2,My Team,no,For single country group for CWT leavers asset retrieval
+33000163075,CWT FTS BR Retrieval,2,0,0,0,0,0,2,2,My Team,no,This group will receive automated tasks for retrieve equipment from leavers;
+33000163076,CWT FTS CL Retrieval,2,0,0,0,0,0,2,2,My Team,no,This group will receive automated tasks for retrieve equipment from leavers;
+33000163077,CWT FTS CN Retrieval,3,0,0,0,0,0,3,2,My Team,no,For single country group for CWT leavers asset retrieval
+33000162595,CWT FTS CO Retrieval,2,0,0,0,0,0,2,2,My Team,no,This group will receive automated tasks for retrieve equipment from leavers;
+33000163078,CWT FTS CR Retrieval,5,0,0,0,0,0,5,2,My Team,no,This group will receive automated tasks for retrieve equipment from leavers;
+33000162596,CWT FTS DEU EMEA,15,0,0,0,0,0,15,2,My Team,no,Field IT for German and Austria Users
+33000162154,CWT FTS ENG AMERICAS,16,0,0,0,0,0,16,2,My Team,no,"This is the English Speaking User Support Group for the NORAM including Canada, United States, Costa Rica, and Japan (D&G),"
+33000162599,CWT FTS ENG APAC,10,0,0,0,0,0,10,2,My Team,no,Field-IT APAC. This is the English Speaking User Support Group for FTS APAC including D&G Japan and Guam.
+33000162600,CWT FTS ENG EMEA,20,0,0,0,0,0,20,2,My Team,no,Field IT for all EMEA countries where English is the Standard language for creating tickets.
+33000163811,CWT FTS ENG NORAM,0,0,0,0,0,0,0,2,My Team,no,
+33000162601,CWT FTS ESP EMEA,3,0,0,0,0,0,3,2,My Team,no,Field IT for Spanish Users.
+33000162567,CWT FTS ESP/POR LATAM,11,0,0,0,0,0,11,2,My Team,no,This group will be used to review the Customer needs based on Agreement
+33000162568,CWT FTS ESP/POR LATAM CHAT,26,0,0,0,0,0,26,2,My Team,no,This group is the LATAM chat queue group
+33000162569,CWT FTS FRA EMEA,5,0,0,0,0,0,5,2,My Team,no,Field IT for France Users
+33000163079,CWT FTS ID Retrieval,5,0,0,0,0,0,5,2,My Team,no,For single country group for CWT leavers asset retrieval
+33000163080,CWT FTS IN Retrieval,4,0,0,0,0,0,4,2,My Team,no,For single country group for CWT leavers asset retrieval
+33000162570,CWT FTS ITA EMEA,4,0,0,0,0,0,4,2,My Team,no,Field IT for Italian Users
+33000163081,CWT FTS MX Retrieval,2,0,0,0,0,0,2,2,My Team,no,This group will receive automated tasks for retrieve equipment from leavers;
+33000163082,CWT FTS PE Retrieval,2,0,0,0,0,0,2,2,My Team,no,This group will receive automated tasks for retrieve equipment from leavers;
+33000162155,CWT FTS PH Retrieval,6,0,0,0,0,0,6,2,My Team,no,For single country group for CWT leavers asset retrieval
+33000162573,CWT FTS SG Retrieval,6,0,0,0,0,0,6,2,My Team,no,For single country group for CWT leavers asset retrieval
+33000162574,CWT FTS TH Retrieval,6,0,0,0,0,0,6,2,My Team,no,For single country group for CWT leavers asset retrieval
+33000162575,CWT GCS L1 CXP Global,9,0,0,0,0,0,9,2,My Team,no,"CX PLATFROM - Global 1st level Support for Counselor Platform. Troubleshooting and datagathering. Involved in Approval and Quality Control of requests.   Manage Changed from Steven Henderson to Dawid Buras on May 27th, 2026 (RITM0550930)"
+33000162156,CWT GCS L2 CXP GLOBAL,10,0,0,0,0,0,10,2,My Team,no,"CX PLATFROM - EMAIL Global 2nd level Support, Maintenance and Implementation Team. Based in Poland, Rzeszow. Operating 24/5."
+33000162578,CWT GDPR SAR CWT Employee Support,7,0,0,0,0,0,7,2,My Team,no,null
+33000162579,CWT GDPR SAR Global Risk Management,7,0,0,0,0,0,7,2,My Team,no,null
+33000162580,CWT GDPR SAR Legal & Compliance,7,0,0,0,0,0,7,2,My Team,no,null
+33000162581,CWT GDPR SAR Meetings & Events Attendee ID Verification,9,0,0,0,0,0,9,2,My Team,no,null
+33000162582,CWT GDPR SAR Program Management ID Verification,7,0,0,0,0,0,7,2,My Team,no,null
+33000162583,CWT GDPR SAR Traveler Requests,10,0,0,0,0,0,10,2,My Team,no,null
+33000162584,CWT GDS Adapters Devops,6,0,0,0,0,0,6,2,My Team,no,GDS Adapters DevOps group will be the team to provide technical support for the GDS Adapters application. Any incidents and requests for GDS Adapters will be assigned to this assignment group.
+33000163083,CWT GDS LATAM APPROVAL GROUP,4,0,0,0,0,0,4,2,My Team,no,"Approvals for LATAM GDS Sine Requests November 24, 2025: Amended group manager"
+33000162585,CWT GDS Profile configuration,6,0,0,0,0,0,6,2,My Team,no,"Create and maintain GDS company profiles globally and uphold the global GDS Corporate Profile standards.   June 30, 2025: Group renamed from PPI ES Profiles to GDS Profile configuration"
+33000162586,CWT GDS Scripting,5,0,0,0,0,0,5,2,My Team,no,GDS Scripting L3 product support group.  Fields Sabre Scribe Scripts functionality questions and incidents
+33000162157,CWT GDS Security and Configuration,6,0,0,0,0,0,6,2,My Team,no,"Deliver and uphold the global GDS Office Id (OID) / Pseudo City Codes (PCC) configuration standards as well as user configuration standards June 30, 2025: Group renamed from TXC GDS TEAM to GDS Security and Configuration"
+33000162589,CWT GDS Security and Configuration LATAM,5,0,0,0,0,0,5,2,My Team,no,"Deliver and uphold the global GDS Office Id (OID) / Pseudo City Codes (PCC) configuration standards as well as user configuration standards.  June 30, 2025: Group renamed from GDS LATAM to GDS Security and Configuration LATAM"
+33000162231,CWT GDS TEAM,1,0,0,0,0,0,1,2,My Team,no,null
+33000163084,CWT Genesis Approver Group,5,0,0,0,0,0,5,2,My Team,no,Change Approver Group for the Genesis Application
+33000162701,CWT Genpact Support,4,0,0,0,0,0,4,2,My Team,no,Vendor Genpact- functional Operations Support Team
+33000163085,CWT Genpact-Approvers-Hungary,3,0,0,0,0,0,3,2,My Team,no,Genpact-Approvers-Hungary Need  this group for Genpact on boarding form so country can approve the request
+33000163086,CWT Genpact-Approvers-Latvia,3,0,0,0,0,0,3,2,My Team,no,Central Access Approver Group
+33000163087,CWT Genpact-Approvers-Spain,3,0,0,0,0,0,3,2,My Team,no,Genpact-Approvers-Spain Need this group for Genpact on boarding form so country can approve the request.
+33000162158,CWT Github Org Admin,6,0,0,0,0,0,6,2,My Team,no,Group in charge of administration of CWT Github Org
+33000162159,CWT GLOBAL CRM SUPPORT,8,0,0,0,0,0,8,2,My Team,no,CRM Support Team supports CRM On Demand users globally
+33000162706,CWT Global Customer Care,8,0,0,0,0,0,8,2,My Team,no,null
+33000162707,CWT GLOBAL Essbase,2,0,0,0,0,0,2,2,My Team,no,null
+33000162708,CWT GLOBAL IDSTUDIOS SUPPORT,9,0,0,0,0,0,9,2,My Team,no,null
+33000163088,CWT GLOBAL INFORMATION MANAGEMENT,6,0,0,0,0,0,6,2,My Team,no,null
+33000162709,CWT GLOBAL IT CAB,19,0,0,0,0,0,19,2,My Team,no,This group is for the Global IT Change Team's use. It is reserved for their use and used to help ensure changes follow due process
+33000162160,CWT Global IT Service Request,26,0,0,0,0,0,26,2,My Team,no,null
+33000163089,CWT GLOBAL PARTNER NETWORK TTS,3,0,0,0,0,0,3,2,My Team,no,null
+33000162190,CWT Global Physical Security,2,0,0,0,0,0,2,2,My Team,no,Global Security Group
+33000163195,CWT Global Product Delivery,3,0,0,0,0,0,3,2,My Team,no,Global Product Delivery
+33000162161,CWT GLOBAL PRODUCT DELIVERY PDe,3,0,0,0,0,0,3,2,My Team,no,null
+33000162714,CWT Global Reporting Team,2,0,0,0,0,0,2,2,My Team,no,"Global Reporting Team is responsible for the maintenance and issue resolution of Power Advantage, Power Insight, and Affinity."
+33000163196,CWT Global Security Incident Management,2,0,0,0,0,0,2,2,My Team,no,null
+33000163197,CWT Global Trip ID Approval Group,4,0,0,0,0,0,4,2,My Team,no,"Members of the group will approve Global Trip ID (aka CTR, CWT Trip Repository ) production deployments"
+33000162715,CWT Global Trip ID Support,7,0,0,0,0,0,7,2,My Team,no,Members of the group will provide technical support for CWT Trip Repository (Global Trip ID Support)
+33000162162,CWT Global Voice Call Routing,5,0,0,0,0,0,5,2,My Team,no,"Due to extremely limited resources, normal turnaround time for tickets is 21 Business days. CWT only has 4 resources to assist globally. Please do not contact analysts directly to request escalation if it is NOT a Break/Fix issue. Normal tickets are worked in the order received. -------------------------------------------------------------------------------------------------------------  If you need to report a Break/Fix Issue, where something is Broken or has stopped working, CALL the GSD so that an Incident Manager may be assigned and/or On-call person will be notified. --------------------------------------------------------------------------------------------------------------  If an Incident is opened and this is NOT a break/fix issue, that ticket will be immediately closed and we will ask you open a normal ticket, which may have a turnaround time of 21 business days.  ----------------------------------------------------------------------------------------------------- To open a regular ticket for the Call Routing team please utilize the following links: ---------------------------------------------------------- -------------------------------------------------------------- Telephony ticket with instructions:  https://mycwt.jiveon.com/groups/telephony-avaya/blog/2021/02/24/introducing-the-new-global-telephony-service-request-form-1 ---------------------------------------------------------- -------------------------------------------------------------- Telephony ticket direct link without instructions:  https://cwt.service-now.com/sp?id=sc_cat_item&sys_id=c9792d5c1ba5b814a026da01dd4bcbd4&sysparm_category=96affa6b1badcd50a026da01dd4bcb80  --------------------------------------------------------------------------------------------------------------------------Please submit tickets for any of the following requests: ------------------------------------------------- Modification to Existing Call Flow. ---------------------------------------------------------- ------------------Implementation for New Call Flow. ---------------------------------------------------------- ----------------De-Implementation of Existing Call Flow(s) / Client. ---------------------------------------------------------- ------------------------------------------------------ --------------------------------------------------------------  The following are also tickets utilized by various teams... ----- ------------------------------------------------------ -------------------------------------------------------------- --------------------------------------------- Global Telephony & Email Service Level Change: https://cwt.service-now.com/sp?id=sc_cat_item&sys_id=3a2f83ec1b3446101190dd71ec4bcb3a&sysparm_category=96affa6b1badcd50a026da01dd4bcb80  ------------------------------------------------------------------------------------------------------------------------- Call Trace Request:  https://extranet.mycwt.com/WorkRequest/ContactCenterRequest.aspx  ------------------------------------------------------------------------------------------------------------------------- Avaya Callback Assist:  https://mycwt.jiveon.com/groups/telephony-avaya/pages/call-back-assist  ----------------------------------------------------------------------------------------------------------------- ----- ------------------------------------------------------ -------------------------------------------------------------- Assistance with Agent Login IDs, Stations, or phones, contact VoiceOps (This is not Call Routing):  https://cwt.service-now.com/sp?id=sc_cat_item&sys_id=9ee6959c1ba1b814a026da01dd4bcbeb -------------------------------------------------------------- ----------------------------------------------------------------------------------------------- Avaya CMS installation (also not Call Routing):  https://cwt.service-now.com/sp?id=sc_cat_item&sys_id=dfec599213bdbb409a6f5aa12244b0d8&sysparm_category=96affa6b1badcd50a026da01dd4bcb80"
+33000162163,CWT Global Voice Ops,11,0,0,0,0,0,11,2,My Team,no,"Global group that encompasses all L2/L3 Voice Engineers from Americas, EMEA, and APAC"
+33000163032,CWT Glory Approvers,3,0,0,0,0,0,3,2,My Team,no,null
+33000162720,CWT GLORY IMPLEMENTATION,4,0,0,0,0,0,4,2,My Team,no,null
+33000162721,CWT Glory Tables Maintenance,9,0,0,0,0,0,9,2,My Team,no,Suppliers / account mappings and Glory Tables Maintenance
+33000162722,CWT GOVERNMENT,2,0,0,0,0,0,2,2,My Team,no,null
+33000163198,CWT GOVERNMENT SETTLEMENT,2,0,0,0,0,0,2,2,My Team,no,This group is used for M&G client settlements
+33000163199,CWT GPN Bahrain,3,0,0,0,0,0,3,2,My Team,no,This group is for users in PARTNER country BAHRAIN supporting feedback handling.
+33000163200,CWT GPN Korea Republic,2,0,0,0,0,0,2,2,My Team,no,This group is for users in PARTNER country KOREA REPUBLIC supporting feedback handling.
+33000163201,CWT GPN Kuwait,3,0,0,0,0,0,3,2,My Team,no,This group is for users in PARTNER country KUWAIT supporting feedback handling.
+33000163202,CWT GPN Oman,3,0,0,0,0,0,3,2,My Team,no,This group is for users in PARTNER country OMAN supporting feedback handling.
+33000163203,CWT GPN Portugal/Angola,2,0,0,0,0,0,2,2,My Team,no,This group is for users in PARTNER country PORTUGAL supporting feedback handling.
+33000163204,CWT GPN Qatar,3,0,0,0,0,0,3,2,My Team,no,This group is for users in PARTNER country QATAR supporting feedback handling.
+33000163205,CWT GPN Russia,2,0,0,0,0,0,2,2,My Team,no,This group is for users in PARTNER country RUSSIA supporting feedback handling.
+33000163206,CWT GPN Slovakia,2,0,0,0,0,0,2,2,My Team,no,This group is for users in PARTNER country SLOVAKIA supporting feedback handling.
+33000163207,CWT GPN South Africa,4,0,0,0,0,0,4,2,My Team,no,This group is for users in PARTNER country SOUTH AFRICA supporting feedback handling.
+33000163208,CWT GPN United Arab Emirates,6,0,0,0,0,0,6,2,My Team,no,This group is for users in PARTNER country UNITED ARAB EMIRATES supporting feedback handling.
+33000163209,CWT GRC Admin,1,0,0,0,0,0,1,2,My Team,no,ServiceNow Governance Risk & Compliance (GRC) module Administrator group.
+33000163210,CWT GRC Assessment Owners,1,0,0,0,0,0,1,2,My Team,no,null
+33000163211,CWT GRC User,1,0,0,0,0,0,1,2,My Team,no,null
+33000162723,CWT GSC Development Team,2,0,0,0,0,0,2,2,My Team,no,Development and Support of below applications  Power Organizer Power Resilience GSC Connect TTSS Exception Reporting
+33000162724,CWT GSC EDI Spain,1,0,0,0,0,0,1,2,My Team,no,The group will mainly be taking care of EDI structure maintenance in WINGS and database for the WINGS accounts and CCS
+33000163212,CWT GSC PL Project Management,3,0,0,0,0,0,3,2,My Team,no,GSC PL Project Management Team
+33000163213,CWT GSC TSE,8,0,0,0,0,0,8,2,My Team,no,null
+33000164149,CWT GSD Connect Support,0,0,0,0,0,0,0,2,My Team,no,
+33000163214,CWT GSD DEU Chat Support,1,0,0,0,0,0,1,2,My Team,no,This is access group for German language chat support
+33000163215,CWT GSD ESP Chat Support,1,0,0,0,0,0,1,2,My Team,no,This is access group for Spanish language chat support
+33000162725,CWT GSD ESP/POR LATAM,19,0,0,0,0,0,19,2,My Team,no,null
+33000163216,CWT GSD FRA Chat Support,1,0,0,0,0,0,1,2,My Team,no,This is access group for French language chat support
+33000163217,CWT GSD Global Leaders,3,0,0,0,0,0,3,2,My Team,no,Group of manager/users that will do work within the ServiceNow
+33000163218,CWT GSD ITA Chat Support,1,0,0,0,0,0,1,2,My Team,no,This is access group for Italian language chat support
+33000163219,CWT GSD KB Management,10,0,0,0,0,0,10,2,My Team,no,null
+33000163033,CWT GSD KnowledgeBase,2,0,0,0,0,0,2,2,My Team,no,null
+33000162726,CWT GSD L1 DEU EMEA,22,0,0,0,0,0,22,2,My Team,no,null
+33000162164,CWT GSD L1 ENG APAC,20,0,0,0,0,0,20,2,My Team,no,null
+33000162729,CWT GSD L1 ENG EMEA,20,0,0,0,0,0,20,2,My Team,no,null
+33000162730,CWT GSD L1 ENG LATAM,19,0,0,0,0,0,19,2,My Team,no,null
+33000162731,CWT GSD L1 ENG NORAM,20,0,0,0,0,0,20,2,My Team,no,null
+33000162732,CWT GSD L1 ESP EMEA,21,0,0,0,0,0,21,2,My Team,no,Group for spanish support in GSD PL
+33000162672,CWT GSD L1 FRA EMEA,22,0,0,0,0,0,22,2,My Team,no,null
+33000162673,CWT GSD L1 ITA EMEA,22,0,0,0,0,0,22,2,My Team,no,null
+33000162674,CWT GSD L2 EMEA,2,0,0,0,0,0,2,2,My Team,no,Global Service Desk EMEA 2nd Line support
+33000163034,CWT GSD Manila Leaders,4,0,0,0,0,0,4,2,My Team,no,null
+33000163170,CWT GSD Manila Report,1,0,0,0,0,0,1,2,My Team,no,This group is used for Manila GOC Service Desk reports
+33000162675,CWT GSD MI Child Incidents,18,0,0,0,0,0,18,2,My Team,no,null
+33000163171,CWT GSD/FTS Chat Suport Global,1,0,0,0,0,0,1,2,My Team,no,"This is access group for English language Global Chat Support. Includes All GSD, FTS"
+33000163172,CWT GTES,1,0,0,0,0,0,1,2,My Team,no,This group will be used to assign access to Chris Peterson's org to support the CWT transition.  It includes the ServiceNow role groups and support groups needed to support the IITL processes.
+33000163173,CWT GTID BUSINESS,1,0,0,0,0,0,1,2,My Team,no,null
+33000163174,CWT Guided Tours Admin,1,0,0,0,0,0,1,2,My Team,no,null
+33000162547,CWT GWS APP DEVELOPMENT,3,0,0,0,0,0,3,2,My Team,no,CWT Web Site Application Development Team Group
+33000162191,CWT HA IMPLEMENTATIONS,6,0,0,0,0,0,6,2,My Team,no,"July 14, 2021: Removed Steven Pillig from the CWT HA IMPLEMENTATIONS group and updated the group email,  replace -naTRAV-CWTFITTelecommuterTeam@carlson.com with CAgentTelecommuter@mycwt.com.  RITM0013389/90"
+33000162960,CWT HARP Approver Group,2,0,0,0,0,0,2,2,My Team,no,null
+33000163175,CWT Harveys Travel,1,0,0,0,0,0,1,2,My Team,no,Travel Services Group in Canada support travelers and use the TSC Traveler Online Booking Tools.
+33000162676,CWT HCSProductTeam,5,0,0,0,0,0,5,2,My Team,no,Product team who approves users for HCS or manages enhancements
+33000162550,CWT HFM Admin IT,3,0,0,0,0,0,3,2,My Team,no,null
+33000162961,CWT HOMEWORKER CALL,1,0,0,0,0,0,1,2,My Team,no,null
+33000162677,CWT Hotel Content Services (HCS),11,0,0,0,0,0,11,2,My Team,no,Technical Support for Hotel Modernization applications including  Hotel Content Services (HCS)
+33000162678,CWT Hotel Core Platform,5,0,0,0,0,0,5,2,My Team,no,null
+33000163176,CWT Hotel Intel Admin,7,0,0,0,0,0,7,2,My Team,no,This is the group that is used by CIS to allocate us incidents
+33000163177,CWT Hotel Intel IT,3,0,0,0,0,0,3,2,My Team,no,null
+33000162679,CWT Hotel Price Optimization (HPO),6,0,0,0,0,0,6,2,My Team,no,Price optimization support
+33000162680,CWT HotelHub Support,17,0,0,0,0,0,17,2,My Team,no,null
+33000163178,CWT HR Data Management,3,0,0,0,0,0,3,2,My Team,no,"Our scope of support are HR Data Integration, HR Data Quality, HR Master Data Management, HR Data Sharing, HR Data Mass Upload, HR Data Security, HR Business Intelligence, HR Data Governance, HR Data Architecture and HR Data Standards"
+33000162681,CWT HR DevOps,9,0,0,0,0,0,9,2,My Team,no,HCM Cloud Solutions (previously known as HR Configuration Management) is a development team whose primary function is to make a system configuration in accordance to the business owners' needs.
+33000162962,CWT HR EIT Approvers,2,0,0,0,0,0,2,2,My Team,no,"HR Connect Interfaces from Enterprise Information Technology (EIT) perspective. All interfaces that HR Connect communicates with such as Oracle Financials, ADP, NETIQ, etc."
+33000162682,CWT HR Interface,4,0,0,0,0,0,4,2,My Team,no,"Our scope of support are HR SSO Certificates, HR Interface and Web Portal Design, Development & Support  Configuration Items: 1. HR Connect  2. OS Concept 3. Taleo Recruiting  4. Taleo Learn 5. HR Interfaces 6. RightNow 7. HR Web Portal 8. HR SSO & Certificates 9. Buzz  Problem Types: 1. Interfaces 2. Web HTML/CSS 3. Webservices"
+33000163179,CWT HR Interface Approvers,3,0,0,0,0,0,3,2,My Team,no,Approvers for HR Connect Interface Changes
+33000162683,CWT HR Systems & Support,6,0,0,0,0,0,6,2,My Team,no,"HR Quality Assurance, Access, Users & Roles Support"
+33000162165,CWT HRO Setups,1,0,0,0,0,0,1,2,My Team,no,HotelHub support to fulfil HRO setup forms
+33000162551,CWT HRSolutions,2,0,0,0,0,0,2,2,My Team,no,null
+33000162963,CWT HSP Approver Group,3,0,0,0,0,0,3,2,My Team,no,null
+33000162686,CWT HSP Support,14,0,0,0,0,0,14,2,My Team,no,3rd level non urgent  support for Power Hotel.
+33000162964,CWT HTL EIT Approver,1,0,0,0,0,0,1,2,My Team,no,EIT Approvers Hotel Validation Tool and Hotel Content Services systems.
+33000162166,CWT HW_SW_AssetMGMT,17,0,0,0,0,0,17,2,My Team,no,Hardware and Software Asset Management Group  Group inactivated Cindy Arneson RITM0310286 4/15/23  Group re-activated based on INC1010410 4/18/24
+33000163180,CWT HYPERION MAINTENANCE,1,0,0,0,0,0,1,2,My Team,no,null
+33000162192,CWT ID Admin,3,0,0,0,0,0,3,2,My Team,no,null
+33000162965,CWT ID Studios Approver Group,7,0,0,0,0,0,7,2,My Team,no,null
+33000162193,CWT Identity & Access Management,3,0,0,0,0,0,3,2,My Team,no,null
+33000163181,CWT Idle Incident Management,17,0,0,0,0,0,17,2,My Team,no,Dummy Group that controls ability to pull up the Idle Incident Reminder notification email client template when this group is assignment group on an incident.
+33000163182,CWT IE WINGS FINANCE,2,0,0,0,0,0,2,2,My Team,no,Wings setup and maintenance IE
+33000162966,CWT IEX Webstation Support,1,0,0,0,0,0,1,2,My Team,no,null
+33000162556,CWT Incident Management,26,0,0,0,0,0,26,2,My Team,no,CWT Global Application Incident Management  team
+33000163183,CWT INCIDENT-ADMIN,1,0,0,0,0,0,1,2,My Team,no,The INCIDENT-ADMIN group defines the group of users that have Admin access to the ServiceNow Incident Management application.
+33000163184,CWT INCIDENT-PROJECT-CODE-USER,1,0,0,0,0,0,1,2,My Team,no,group to apply the u_incident_project_code_user role.  these users are able to manage the incident project codes listed under Generic Request module.   This role is also applied directly through the CSM-MANAGER group
+33000163185,CWT INCIDENT-USER,1,0,0,0,0,0,1,2,My Team,no,The INCIDENT-USER group defines the group of users that have write access to the Incident Management application.
+33000163376,CWT India Products,0,0,0,0,0,0,0,2,My Team,no,
+33000162194,CWT INFORMATION SECURITY,10,0,0,0,0,0,10,2,My Team,no,null
+33000163186,CWT Insights Approver Group,3,0,0,0,0,0,3,2,My Team,no,Insights Approver Group
+33000162689,CWT Insights Dev,6,0,0,0,0,0,6,2,My Team,no,"This group is responsible for building, maintaining and supporting the Insights Application"
+33000164151,CWT INTERACTION PLATFORMS ASIA PAC,0,0,0,0,0,0,0,2,My Team,no,
+33000163187,CWT Internal Kong approval,3,0,0,0,0,0,3,2,My Team,no,internal kong approval group for Kong community gateway
+33000163188,CWT Internal Kong support,4,0,0,0,0,0,4,2,My Team,no,Kong internal (Community edition) gateway support team
+33000162690,CWT Internal Project Solutions Group,11,0,0,0,0,0,11,2,My Team,no,Internal Group for ticket connected with the Project Solutions responsibilities
+33000163189,CWT Invoices Approver Group,2,0,0,0,0,0,2,2,My Team,no,Invoices Change Approver Group  Tie this approver group to Application CI: Invoices
+33000162691,CWT IQ Users Maintenance,11,0,0,0,0,0,11,2,My Team,no,"This group will be use to manage requests related to AnalytIQs Users maintenance (Add, Delete,Modify)."
+33000162692,CWT IT DATA CENTER,2,0,0,0,0,0,2,2,My Team,no,null
+33000162693,CWT IT FINANCE DEV,3,0,0,0,0,0,3,2,My Team,no,"access users to PO DB, Administrate  PO,  Reporting,// EMEA back office applications IT DEV management"
+33000162167,CWT IT OPS PERFORMANCE TESTING,4,0,0,0,0,0,4,2,My Team,no,Group that provides the Performance testing service to all applications
+33000163190,CWT IT-INC-ONLY-ROLE-GROUP,1,0,0,0,0,0,1,2,My Team,no,Applies roles for TI Incident Only Users
+33000163191,CWT Italy Change Management,5,0,0,0,0,0,5,2,My Team,no,"Dec 16, 2024: Removed itchangemanagement@mycwt.it as the Group emails - invalid email.  Reached out to Vittorio to provide a new group email."
+33000163192,CWT Italy Network,2,0,0,0,0,0,2,2,My Team,no,"Request RITM0273141 from Massimo Ruggieri 1/5/24 to rename group from ""IT Network"" to ""Italy Network"""
+33000162696,CWT Italy Wings GP,2,0,0,0,0,0,2,2,My Team,no,Group to manage Italy Secondary Applications for Genpact
+33000163193,CWT ITIL Admin,1,0,0,0,0,0,1,2,My Team,no,Group that has ITIL Admin Role
+33000163194,CWT ITIL Users,1,0,0,0,0,0,1,2,My Team,no,"Group that has ITIL Role - Fulfiller only should be added to this group to be able to process & resolve/close INC, CHG, PRB, etc"
+33000162168,CWT James Auto Rest User Group,1,0,0,0,0,0,1,2,My Team,no,null
+33000162967,CWT JDE Approvers,2,0,0,0,0,0,2,2,My Team,no,null
+33000163120,CWT KB Editors,1,0,0,0,0,0,1,2,My Team,no,Role Group to assign the kb_edit role.  People that have been assigned this role are users that are an author for a kb article.
+33000163121,CWT KM TEAM,2,0,0,0,0,0,2,2,My Team,no,ServiceNow Knowledge Management team
+33000163122,CWT Knoweldge Manager,1,0,0,0,0,0,1,2,My Team,no,null
+33000163123,CWT Knowledge Manager,1,0,0,0,0,0,1,2,My Team,no,null
+33000162699,CWT Knowledge Support,1,0,0,0,0,0,1,2,My Team,no,null
+33000162700,CWT Korbyt Support,10,0,0,0,0,0,10,2,My Team,no,Management of Korbyt settings / questions / issues
+33000163124,CWT Lackland IT,5,0,0,0,0,0,5,2,My Team,no,Development group located in St. Louis
+33000162169,CWT Lakehouse DevOps,4,0,0,0,0,0,4,2,My Team,no,Provide DevOps Support for the Lakehouse Application.  Including: 1. Grant users access privilege to Lakehouse Application 2. Address Lakehouse Data related inquiries 3. Investigate Lakehouse related data issues
+33000163125,CWT Lakehouserest Role Group,1,0,0,0,0,0,1,2,My Team,no,Provides the required roles for the lakehouserest account to access ServiceNow for the Snowflake integration.  This account is used by the architecture team to retrieve data into the Snowflake system.
+33000163126,CWT LATAM Approvals Group,2,0,0,0,0,0,2,2,My Team,no,"LATAM Approval Group. Group name, manager and members updated 8/18/22 by request from Luiz Bittencourt New request RITM0149923 from Luiz Bittencourt 10/14/22 to rename group back to LATAM Approvals Group"
+33000162170,CWT LATAM Dev Team,5,0,0,0,0,0,5,2,My Team,no,IT LATAM Development
+33000162618,CWT LATAM PRODUCTS,3,0,0,0,0,0,3,2,My Team,no,"June 30, 2025: Group renamed from TXC L2 LATAM  PRODUCTS to LATAM PRODUCTS November 21, 2025: Group Manager changed to Katarina Exerman"
+33000162619,CWT LATAM Robotics Support,4,0,0,0,0,0,4,2,My Team,no,"LATAM Robotics L3 product support group.  Fields LATAM automation functionality requests, questions and incidents."
+33000162620,CWT LATAM SUPPORT,3,0,0,0,0,0,3,2,My Team,no,"TX CARE Level 2 Support in LATAM Region  June 30, 2025: Group renmaed from TXC L2 LATAM Support to LATAM SUPPORT November 21, 2025: Group manager changed to Katarina Exerman."
+33000162969,CWT LATAM_CR Physical Security,3,0,0,0,0,0,3,2,My Team,no,Employee Badge Provisioning Costa Rica
+33000163127,CWT LATAM-AR-Service Desk 2nd Level,1,0,0,0,0,0,1,2,My Team,no,null
+33000162559,CWT LATAM-BR System Development,3,0,0,0,0,0,3,2,My Team,no,This group will be used to manage BR Develpment team.
+33000162195,CWT LATAM-BR-Products and Training,1,0,0,0,0,0,1,2,My Team,no,null
+33000162968,CWT LATAM-CO-BOG IT PROCEDURE,1,0,0,0,0,0,1,2,My Team,no,"Administrative process, web develoment o"
+33000163128,CWT Lenis Approver Group,2,0,0,0,0,0,2,2,My Team,no,Lenis Approver Group
+33000162621,CWT Lenis Product Support,4,0,0,0,0,0,4,2,My Team,no,Lenis Product Support group
+33000162622,CWT Line Definition Data Standards,6,0,0,0,0,0,6,2,My Team,no,"Global 2nd Level Support for Power Desktops: Power Express/Power Turbo and data maintenance of Power Base and Power Library. Global team owning GDS Line Definitions maintenance on all GDS and Sabre Templates.  Main SN group: CIS GLOBAL POWER TOOLS  June 30, 2025: Group renamed from TXC L2 Data Standards to Line Definition Data Standards"
+33000163129,CWT M&E,5,0,0,0,0,0,5,2,My Team,no,This group is for M&E managers supporting feedback handling for M&E clients
+33000162623,CWT M&G Automated Solutions,1,0,0,0,0,0,1,2,My Team,no,M&G Automation Development and Support. Re-activated group 2/8/22 RITM0081605 Michael Rivas
+33000162624,CWT M&G DQS NORAM,1,0,0,0,0,0,1,2,My Team,no,Hierarchy updates/additions  New account setup/changes Data quality research – adhoc
+33000163130,CWT M&G Finance,1,0,0,0,0,0,1,2,My Team,no,null
+33000163131,CWT M&G Help Desk,1,0,0,0,0,0,1,2,My Team,no,null
+33000163132,CWT M&G Products,1,0,0,0,0,0,1,2,My Team,no,Military & Government Products & Services
+33000162625,CWT M&G TS Support Helpdesk,1,0,0,0,0,0,1,2,My Team,no,M&G TS Support Helpdesk
+33000163133,CWT Major Incident Manager,1,0,0,0,0,0,1,2,My Team,no,null
+33000162171,CWT Manila GOC Service Request,22,0,0,0,0,0,22,2,My Team,no,null
+33000163134,CWT Manila GSD Level 2,7,0,0,0,0,0,7,2,My Team,no,Global Network Operations Center
+33000163135,CWT Matrix Approvers,7,0,0,0,0,0,7,2,My Team,no,"Need this new approver group for Global Matrix application suite that will be presented at the CAB. With the new structure changes, this group will ensure business impacts and provide awareness to leadership team from a change risk perspective."
+33000162172,CWT Matrix Customer Service,5,0,0,0,0,0,5,2,My Team,no,Business Technical Solutions Group which will be supporting Service Now Incident tickets originating from CWT CA and Harveys groups supporting Matrix.
+33000163136,CWT Matrix D&G Approvers,4,0,0,0,0,0,4,2,My Team,no,Matrix D&G Approvers - For Matrix Development D&G Environment
+33000163137,CWT Matrix Dev Approvers,6,0,0,0,0,0,6,2,My Team,no,Matrix Development Approvers group for Change Requests
+33000162630,CWT Matrix Development,7,0,0,0,0,0,7,2,My Team,no,null
+33000162631,CWT Matrix Edit Team,6,0,0,0,0,0,6,2,My Team,no,null
+33000162632,CWT MATRIX SECURITY,4,0,0,0,0,0,4,2,My Team,no,Approval must be granted by Matrix Security before Matrix Support can fulfill request.
+33000162173,CWT Matrix Support,5,0,0,0,0,0,5,2,My Team,no,Matrix application support
+33000162970,CWT MDF Approver Group,3,0,0,0,0,0,3,2,My Team,no,null
+33000162174,CWT MDF Support,3,0,0,0,0,0,3,2,My Team,no,null
+33000162637,CWT MDF Support L3,3,0,0,0,0,0,3,2,My Team,no,"Engineering Support Group for MDF, ISB, ESG"
+33000162638,CWT ME SUPPORT SERVICES NORAM,3,0,0,0,0,0,3,2,My Team,no,Meetings and Events/Online
+33000162560,CWT MER APP SUPPORT,4,0,0,0,0,0,4,2,My Team,no,"Meetings & Events Repository (MER) is an operational data store that connects to Meeting Box and Cvent, external applications."
+33000163138,CWT MER Approver Group,3,0,0,0,0,0,3,2,My Team,no,Enhance ME / MER application changes will be reviewed and approved by this group to promote it to production.
+33000162196,CWT Messaging,9,0,0,0,0,0,9,2,My Team,no,null
+33000163139,CWT MFA Exempted User Group,1,0,0,0,0,0,1,2,My Team,no,Add the users into this group for which MFA has to be exempted.
+33000162639,CWT MG Reporting,1,0,0,0,0,0,1,2,My Team,no,Access to open tickets and assign to appropriate groups for Government work
+33000163140,CWT Mission Insight Approver Group,8,0,0,0,0,0,8,2,My Team,no,M& G Reporting
+33000163141,CWT Mission Insight Support,3,0,0,0,0,0,3,2,My Team,no,This group provides support for the Mission Insight Platform and provides admin support in terms of user support.
+33000162640,CWT MongoDB Comm DBA,19,0,0,0,0,0,19,2,My Team,no,MongoDB Commercial DBA team
+33000162641,CWT MongoDB M&G DBA,3,0,0,0,0,0,3,2,My Team,no,MongoDB  M&G DBA team
+33000162642,CWT MyCWT China L0 Support,1,0,0,0,0,0,1,2,My Team,no,This is the entry level support group for MyCWT China.
+33000162643,CWT MyCWT China L1 Support,1,0,0,0,0,0,1,2,My Team,no,"This is the 1st level support of China BOoking system, they will receive request from end users by phone/email and log to system. if level 1 can not fix it, then need to escalate to level 2 support."
+33000162644,CWT MyCWT China L2 DevOps,1,0,0,0,0,0,1,2,My Team,no,This is the L2 DevOps group supporting China Booking Platform only.
+33000163142,CWT MyCWT China L2-ClientSetup,1,0,0,0,0,0,1,2,My Team,no,MyCWT China L2 group for Client Setup tickets
+33000163143,CWT MyCWT China L2-Infra,1,0,0,0,0,0,1,2,My Team,no,"This is level 2 support of China Booking system, it will receive incident escalated from level 1 support, then do trouble shooting , if this group can not fix problem , they need to escalate to level 3 support."
+33000163144,CWT MyCWT China L2-Product-nonRoomIT,1,0,0,0,0,0,1,2,My Team,no,This is the MyCWT China L2 team for Product-nonRoomIT tickets to be processes
+33000162645,CWT MyCWT China L3 Development,1,0,0,0,0,0,1,2,My Team,no,"this is part of level 3 support of China booking system , they will focus on issue related with the application, if level 2 support the incident belong to development, they will escalate to this team for help. This team will fix issue related with applications, such as feature become abnormal."
+33000162175,CWT myCWT Messaging Implementations,1,0,0,0,0,0,1,2,My Team,no,Group responsible for myCWT Messaging Implementations
+33000162648,CWT MySQL Comm DBA,19,0,0,0,0,0,19,2,My Team,no,MySQL Commercial DBA team
+33000162649,CWT MySQL M&G DBA,4,0,0,0,0,0,4,2,My Team,no,MySQL M&G DBA team
+33000163145,CWT NAV_PJM_FIELDIT,1,0,0,0,0,0,1,2,My Team,no,null
+33000163146,CWT NAV_REGIONAL_MIS_MANAGERS,1,0,0,0,0,0,1,2,My Team,no,null
+33000163147,CWT NAV_WEB DEVELOPMENT,1,0,0,0,0,0,1,2,My Team,no,null
+33000163148,CWT NCWT CUTOVER SUPPORT,1,0,0,0,0,0,1,2,My Team,no,null
+33000162563,CWT Network Engineering,5,0,0,0,0,0,5,2,My Team,no,null
+33000162971,CWT Network Leadership Approval,4,0,0,0,0,0,4,2,My Team,no,Scheduled Maintenance Notification: Verint WFO MT4 Environment - 19/Jun/2021 at 11:59 PM GMT
+33000162197,CWT Network Support,10,0,0,0,0,0,10,2,My Team,no,Network Support Group
+33000163149,CWT NL UNILEVER TRAVELDESK,1,0,0,0,0,0,1,2,My Team,no,null
+33000163150,CWT NORAM NON-PROD,4,0,0,0,0,0,4,2,My Team,no,null
+33000162972,CWT NORAM Physical Security,4,0,0,0,0,0,4,2,My Team,no,Manual Access Review // 3Q 2021 PCI Assessment & Completion and Copies of Visitor Logs Uploaded into the Physical SharePoint Site:  https://mycwt.sharepoint.com/sites/PCIDSSPhysicalSecurity
+33000162566,CWT NORAM Point of Sale Support Services,2,0,0,0,0,0,2,2,My Team,no,"This group will be assigned tickets in Service Now, for requests submitted via service now ticket.  PMs will be requesting Point of Sale Service Fee Audit reports.  Tickets will be assigned to 2 users - Greg Newham and Barbara Ahrens.   When request is complete, users will close tickets."
+33000163151,CWT NORAM Power Hotel Market Contacts,3,0,0,0,0,0,3,2,My Team,no,null
+33000162650,CWT NORAM Products,3,0,0,0,0,0,3,2,My Team,no,"June 30, 2025: Group renamed from TXC L2 NORAM PRODUCTS to NORAM Products"
+33000163152,CWT Nordic IT Procurement,2,0,0,0,0,0,2,2,My Team,no,"For Nordic IT (SE, FI, DK) procurement requests"
+33000162651,CWT Nordic TS Business Support 1st Level,3,0,0,0,0,0,3,2,My Team,no,NOT IN USE Use BACKOFFICE NORDICS for Wings/reference related and GCS L1 ENG EMEA for all other applications
+33000163153,CWT Nordic VoIP and Moxie Management,2,0,0,0,0,0,2,2,My Team,no,null
+33000162652,CWT OBT Product Delivery,5,0,0,0,0,0,5,2,My Team,no,Responsibilities: OBT Technical product management New OBT features Management Major issues escalation  OBT Strategy inputs
+33000162653,CWT Offers Assistant Development Team,4,0,0,0,0,0,4,2,My Team,no,This group will serve as support for Offers Assistant application set to go live on September.
+33000162503,CWT OIC APP SUPPORT,3,0,0,0,0,0,3,2,My Team,no,Oracle Integration Cloud Support
+33000162654,CWT ON DEMAND INVOICES,6,0,0,0,0,0,6,2,My Team,no,null
+33000163154,CWT ON DEMAND INVOICES Approval Group,4,0,0,0,0,0,4,2,My Team,no,null
+33000163155,CWT ONCALL-ADMIN,1,0,0,0,0,0,1,2,My Team,no,The ONCALL-ADMIN group defines the group of users that have additional write access to the On-call application.  This group allows On-call updates for all groups not just the ones a user belongs to.
+33000163156,CWT ONCALL-USER,1,0,0,0,0,0,1,2,My Team,no,The ONCALL-USER group defines the group of users that have write access to the On-call application.
+33000163157,CWT ONLINE AUDIT & ONLINE OPTIMIZATION,7,0,0,0,0,0,7,2,My Team,no,"This group is assigned Online Aufit and Online Optimization requests, submitted by stakeholders through the external Gateway form."
+33000163158,CWT ONLINE HOTELHUB APPROVER GROUP,3,0,0,0,0,0,3,2,My Team,no,The members of this group can approve requests made for OBT/HotelHub integration.
+33000162655,CWT ONLINE HOTELHUB SUPPORT,7,0,0,0,0,0,7,2,My Team,no,null
+33000162176,CWT Oracle Comm DBA,17,0,0,0,0,0,17,2,My Team,no,Oracle Commercial DBA team
+33000163159,CWT Oracle Email Mismatch,11,0,0,0,0,0,11,2,My Team,no,Group to be alerted when a booking for the client Oracle contains a mismatch between emails in the PNR and emails in the traveler profile
+33000163160,CWT Oracle L2 Support,3,0,0,0,0,0,3,2,My Team,no,Assignment Group for Oracle L2 Support tickets.
+33000162658,CWT Oracle M&G DBA,4,0,0,0,0,0,4,2,My Team,no,Oracle M&G DBA team
+33000163161,CWT OS Exception Approvers,16,0,0,0,0,0,16,2,My Team,no,null
+33000163162,CWT PA Analyst,1,0,0,0,0,0,1,2,My Team,no,Group for assigning the Performance Analytics Analyst role (pa_analyst)
+33000163163,CWT PA Contributor,1,0,0,0,0,0,1,2,My Team,no,Group for assigning the Performance Analytics Contributor role (pa_contributor)
+33000163164,CWT PA Power User,1,0,0,0,0,0,1,2,My Team,no,Group for assigning the Performance Analytics Power User role (pa_power_user)
+33000162659,CWT PARAMETRIZACION,4,0,0,0,0,0,4,2,My Team,no,Price Optimization - EMEA ES
+33000163165,CWT PATCHING-CHANGE-USERS,1,0,0,0,0,0,1,2,My Team,no,Role group that controls the application of the patching_change_user role.  Without this role users are not able to see the option of creating a patching change. A handfull of groups have the role applied directly to them.  Any additional users that require patching change role outside of those groups may be added here.
+33000162973,CWT Payment Platform Approver,5,0,0,0,0,0,5,2,My Team,no,Approver Group for the Payment Platform
+33000162198,CWT Payment Platform Hub,14,0,0,0,0,0,14,2,My Team,no,Support Group for the Payment HUB in AWS and datacenter Level 1 Support Group
+33000162506,CWT Payment Platform L3,6,0,0,0,0,0,6,2,My Team,no,Developer Support Group for Payment Platform Level 3 Support Group
+33000162507,CWT Payment Platform Pega,8,0,0,0,0,0,8,2,My Team,no,Support group for Payment Hub in Pega Cloud Level 2 for specific Pega issues
+33000162974,CWT PeerLink Alerts,2,0,0,0,0,0,2,2,My Team,no,Receive tickets from ESM for Alerts generated by the PeerLink File collaboration tool
+33000162660,CWT Personalization Development Team,9,0,0,0,0,0,9,2,My Team,no,"This team builds, tests and maintains hotels specific applications and services for CWT.  This includes (but is not limited to) merchandizing services, reporting and analytics applications and content services for the hotels domain only."
+33000163166,CWT PGM MESSENGER-ONCALL,1,0,0,0,0,0,1,2,My Team,no,null
+33000162661,CWT PHX DEVELOPMENT,4,0,0,0,0,0,4,2,My Team,no,null
+33000163167,CWT PingFederate Oauth Approver Group,2,0,0,0,0,0,2,2,My Team,no,PingFederate Oauth Approver Group
+33000163168,CWT PL CUSTOMER SERVICE ECENTER WAW,1,0,0,0,0,0,1,2,My Team,no,null
+33000163169,CWT PL CUSTOMER SERVICE MSCLECENTER,1,0,0,0,0,0,1,2,My Team,no,null
+33000163295,CWT Portal Routing Tables Access,1,0,0,0,0,0,1,2,My Team,no,Grants group member access to the Portal routing tables
+33000163296,CWT Portfolio Administrator,6,0,0,0,0,0,6,2,My Team,no,"This group should be used when submitting requests for change to CWT's application portfolio (knowledge.carlsonwagonlit.com).  Domain and solution architects should be contributors to the application portfolio and can make changes on the Web UI.  Changes from non-contributors or changes that effect the structure of the data such as adding a new application attribute to track, should be submitted and assigned to this group."
+33000162508,CWT Portrait Approvers,5,0,0,0,0,0,5,2,My Team,no,null
+33000163297,CWT PORTRAIT-SEARCH,1,0,0,0,0,0,1,2,My Team,no,Group used to provide Portrait_Search role.  Manager was Michal Bachorz and changed it to Dale after Michal noticed Incidents being assinged to it. BA
+33000163298,CWT Power Architect Support,3,0,0,0,0,0,3,2,My Team,no,null
+33000163299,CWT Power Assist Approver Group,3,0,0,0,0,0,3,2,My Team,no,Power Assist Approver Group
+33000162509,CWT Power Base Approver Group,4,0,0,0,0,0,4,2,My Team,no,null
+33000162662,CWT Power Base L3 Support,4,0,0,0,0,0,4,2,My Team,no,"Internal CWT L3 (Developer) support group for Power Base Admin and Power Library issues that need developer investigation, troubleshooting and/or code changes."
+33000162663,CWT Power Express Development,17,0,0,0,0,0,17,2,My Team,no,Development Team of Power Express and will be use for ROTA
+33000163300,CWT Power Hotel Approver Group,2,0,0,0,0,0,2,2,My Team,no,Approver of changes to Power Hotel UI & functionality
+33000163301,CWT Power LCC Approver Group,2,0,0,0,0,0,2,2,My Team,no,Power LCC Change Approver Group
+33000162975,CWT Power Library Approver Group,4,0,0,0,0,0,4,2,My Team,no,null
+33000162664,CWT POWER LIBRARY SUPPORT,3,0,0,0,0,0,3,2,My Team,no,null
+33000163302,CWT Power Resilience Approver Group,3,0,0,0,0,0,3,2,My Team,no,Power Resilience Approver Group
+33000162665,CWT Power Setup Dev,2,0,0,0,0,0,2,2,My Team,no,Development support for Power Setup application
+33000163303,CWT Power Turbo Approver Group,3,0,0,0,0,0,3,2,My Team,no,null
+33000162666,CWT Power Turbo Development,7,0,0,0,0,0,7,2,My Team,no,Power Turbo L4 product support group.  Fields Power Turbo functionality questions and incidents
+33000162667,CWT Power Turbo Product Support,5,0,0,0,0,0,5,2,My Team,no,Power Turbo L3 product support group.  Fields Power Turbo functionality questions and incidents
+33000163304,CWT PRE VIEW DEV SUPPORT,2,0,0,0,0,0,2,2,My Team,no,null
+33000163305,CWT Pre-Trip Approval Manager Approval Group,3,0,0,0,0,0,3,2,My Team,no,Pre-Trip Approval Group
+33000163306,CWT PREVIEW-ONCALL,2,0,0,0,0,0,2,2,My Team,no,null
+33000162668,CWT Price Optimization Support & Implementation,6,0,0,0,0,0,6,2,My Team,no,1st point of contact for every inquiry related to Price Tracking product Group renamed 12/8/22 base on request RITM0162648 from Joanna Clare
+33000162669,CWT Price Optimization Team,1,0,0,0,0,0,1,2,My Team,no,null
+33000162670,CWT Price Tracking Central TS team,8,0,0,0,0,0,8,2,My Team,no,"Team handles the PNR and investigates after the ticket is sent to the vendor (Yapta).  Tickets are raised by Hub Managers related to bookings handled by the Price Tracking Fulfilment team.  I.e.: After these bookings have been queued for rebooking by Yapta to the Price Tracking Fulfilment team.  Note: do not include members on this group, there are people on the Group email: centralizedpricetracking@mycwt.com that are no longer part of the Central TS team."
+33000162671,CWT PRICING UK/IE,2,0,0,0,0,0,2,2,My Team,no,Price Optimization EMEA - UK/IE
+33000162800,CWT PROBLEM MGMT,25,0,0,0,0,0,25,2,My Team,no,This is the group of those who own & manage the problem Process. Membership should be restricted to key personnel in the Service Management & GSD teams
+33000163309,CWT PROBLEM_ADMIN,1,0,0,0,0,0,1,2,My Team,no,Group to provide the ServiceNow problem_super_admin role
+33000163307,CWT PROBLEM-READER,1,0,0,0,0,0,1,2,My Team,no,Provides the ServiceNow Problem Reader role.
+33000163308,CWT PROBLEM-USER,1,0,0,0,0,0,1,2,My Team,no,Provides access to Problem Module and ability to process Problem Tasks
+33000162177,CWT PROCUREMENT,4,0,0,0,0,0,4,2,My Team,no,"Responsible for ordering catalog items, or moving them from inventory that are ""In Stock"""
+33000163310,CWT Procurement - Australia,2,0,0,0,0,0,2,2,My Team,no,Procurement ordering hardware & software working with IT to provide information
+33000163311,CWT Procurement - Bulgaria,2,0,0,0,0,0,2,2,My Team,no,Updated Manager as Matthew Hammond is no longer an active employee
+33000163312,CWT Procurement - Czech Republic,2,0,0,0,0,0,2,2,My Team,no,Updated Manager as Matthew Hammond is no longer an active employee
+33000163313,CWT Procurement - Egypt,3,0,0,0,0,0,3,2,My Team,no,Procurement ordering hardware & Software working with IT to provide information between the vendor and IT.
+33000163314,CWT Procurement - Finland,2,0,0,0,0,0,2,2,My Team,no,Procurement ordering hardware & Software working with IT to provide information between the vendor and IT.
+33000163315,CWT Procurement - France,2,0,0,0,0,0,2,2,My Team,no,Procurement ordering hardware & Software working with IT to provide information between the vendor and IT.
+33000163316,CWT Procurement - Germany,1,0,0,0,0,0,1,2,My Team,no,Procurement ordering hardware & Software working with IT to provide information between the vendor and IT.
+33000163317,CWT Procurement - Hungary,2,0,0,0,0,0,2,2,My Team,no,Updated Manager as Matthew Hammond is no longer an active employee
+33000162803,CWT Procurement - India,2,0,0,0,0,0,2,2,My Team,no,Procurement ordering hardware & Software working with IT to provide information between the vendor and IT.
+33000163318,CWT Procurement - Indonesia,2,0,0,0,0,0,2,2,My Team,no,Procurement ordering hardware & Software working with IT to provide information between the vendor and IT.
+33000163319,CWT Procurement - Latvia,2,0,0,0,0,0,2,2,My Team,no,Updated Manager as Matthew Hammond is no longer an active employee
+33000163270,CWT Procurement - Lithuania,2,0,0,0,0,0,2,2,My Team,no,Updated Manager as Matthew Hammond is no longer an active employee
+33000163271,CWT Procurement - Morocco,2,0,0,0,0,0,2,2,My Team,no,Procurement ordering hardware & Software working with IT to provide information between the vendor and IT.
+33000163272,CWT Procurement - Netherlands,2,0,0,0,0,0,2,2,My Team,no,Updated Manager as Matthew Hammond is no longer an active employee
+33000163273,CWT Procurement - Philippines,2,0,0,0,0,0,2,2,My Team,no,Procurement ordering hardware & Software working with IT to provide information between the vendor and IT.
+33000163274,CWT Procurement - Poland,2,0,0,0,0,0,2,2,My Team,no,Updated Manager as Matthew Hammond is no longer an active employee
+33000163275,CWT Procurement - Romania,2,0,0,0,0,0,2,2,My Team,no,Updated Manager as Matthew Hammond is no longer an active employee
+33000163276,CWT Procurement - Singapore,2,0,0,0,0,0,2,2,My Team,no,Procurement ordering hardware & Software working with IT to provide information between the vendor and IT.
+33000163277,CWT Procurement - Spain,2,0,0,0,0,0,2,2,My Team,no,Procurement ordering hardware & Software working with IT to provide information between the vendor and IT.
+33000163278,CWT Procurement - Sweden,2,0,0,0,0,0,2,2,My Team,no,Updated Manager as Matthew Hammond is no longer an active employee
+33000163279,CWT Procurement - Ukraine,2,0,0,0,0,0,2,2,My Team,no,Updated Manager as Matthew Hammond is no longer an active employee
+33000162804,CWT Product and Technology Content,5,0,0,0,0,0,5,2,My Team,no,Group is responsible for Hotel Content
+33000162805,CWT PRODUCT DELIVERY-AQUA,4,0,0,0,0,0,4,2,My Team,no,AQUA Core Development Team
+33000162806,CWT PRODUCT DEVELOPMENT POWER EXPRESS,11,0,0,0,0,0,11,2,My Team,no,null
+33000163280,CWT Product Management Power Assist,2,0,0,0,0,0,2,2,My Team,no,null
+33000162807,CWT PRODUCT MANAGEMENT POWER EXPRESS,8,0,0,0,0,0,8,2,My Team,no,null
+33000162808,CWT Product Management Power Segment,2,0,0,0,0,0,2,2,My Team,no,null
+33000163281,CWT PRODUCT SUPPORT DEV POWER EXPRESS,5,0,0,0,0,0,5,2,My Team,no,Name Change from Product Dev Support Power Express to PRODUCT SUPPORT DEV POWER EXPRESS
+33000162178,CWT Project Online - Time Tracking,6,0,0,0,0,0,6,2,My Team,no,This is a service group for Project On Line support.
+33000163282,CWT Project Star Approval - NORAM,2,0,0,0,0,0,2,2,My Team,no,null
+33000163283,CWT Project Star Approval - Spain,5,0,0,0,0,0,5,2,My Team,no,null
+33000162811,CWT PTAM Dev,3,0,0,0,0,0,3,2,My Team,no,3rd Level Support for Application Pre-Trip Approval Manager
+33000163284,CWT RCE_GROUP,1,0,0,0,0,0,1,2,My Team,no,Applications used by RCE team.
+33000162812,CWT RCXO L1 Roomit Support,13,0,0,0,0,0,13,2,My Team,no,null
+33000162813,CWT RCXO L2 Aggregator Invoice,15,0,0,0,0,0,15,2,My Team,no,Aggregator invoice requests
+33000162814,CWT RCXO L2 RoomIt Content,32,0,0,0,0,0,32,2,My Team,no,2nd level RoomIt configuration team focused on hotel content and client programmes.
+33000162815,CWT RCXO L2 RoomIt Postbooking Support,14,0,0,0,0,0,14,2,My Team,no,2nd level RoomIt support group focused on post-booking issues.
+33000162816,CWT RCXO L2 Roomit Prebooking Support,13,0,0,0,0,0,13,2,My Team,no,null
+33000163285,CWT RCXO L3 RoomIt Experience,16,0,0,0,0,0,16,2,My Team,no,"RoomIt Client Experience & Operations - 3rd level support team focused on supporting complicated cases, high risk clients and supplier communication."
+33000162199,CWT Real Estate and Facilities,1,0,0,0,0,0,1,2,My Team,no,null
+33000162179,CWT Red Apps CWT,9,0,0,0,0,0,9,2,My Team,no,Assign internal and external Red Apps
+33000163286,CWT Report Access Request Approvers,3,0,0,0,0,0,3,2,My Team,no,Default group for approvers of Report Access Requests
+33000162976,CWT RESOLVE,2,0,0,0,0,0,2,2,My Team,no,null
+33000162819,CWT Resolve / GCC Business Admin,4,0,0,0,0,0,4,2,My Team,no,"Members of this group can perform RESOLVE business administration and configuration tasks, like configuring RESOLVE group access etc."
+33000163287,CWT Resolve Agile Group,4,0,0,0,0,0,4,2,My Team,no,Agile group for use in the Agile Module for the Resolve development team
+33000162977,CWT Resolve Approvers,3,0,0,0,0,0,3,2,My Team,no,null
+33000163288,CWT Resolve Dev,2,0,0,0,0,0,2,2,My Team,no,Group for CWT Resolve Developers.  To Receive email for issues and customer support.
+33000163289,CWT RESOLVE Quicklog Submitter,91,0,0,0,0,0,91,2,My Team,no,Assigns the required roles to group members to they can use the RESOLVE commercial quicklog form.
+33000162820,CWT RESOLVE SUPPORT NORAM,3,0,0,0,0,0,3,2,My Team,no,"Resolve Support Noram - supports all setup tickets related to adding/modifying counselors, clients and CSO/CST/Branch setup for NORAM only. All other tickets to use group or web form"
+33000163290,CWT REST-SERVICE-ACCT-ROLE-GROUP,1,0,0,0,0,0,1,2,My Team,no,null
+33000163291,CWT Risk Definition Survey Users,1,0,0,0,0,0,1,2,My Team,no,This user group is to define the scope of users to receive the Risk Definition Survey
+33000162779,CWT RoomIt Business Operations,5,0,0,0,0,0,5,2,My Team,no,"Manages technical enhancements, fixes, investigations for RoomIt - Particularly for enhanced platforms"
+33000163292,CWT RoomIT Market Expansion,3,0,0,0,0,0,3,2,My Team,no,Room IT Market expansion
+33000162180,CWT RoomIt Operations,28,0,0,0,0,0,28,2,My Team,no,Formerly Global Hotel Operations group
+33000162782,CWT RoomIt Setup,3,0,0,0,0,0,3,2,My Team,no,Global Desktop Traveler Services- Power Hotel setup team.
+33000162181,CWT Sabre Red 360,10,0,0,0,0,0,10,2,My Team,no,Sabre Red 360 Product team
+33000162510,CWT Safety & Security Product Management,1,0,0,0,0,0,1,2,My Team,no,CWT Safety & Security Alerts
+33000163293,CWT SAM User,1,0,0,0,0,0,1,2,My Team,no,Role group to provide the sam_user role.  this role provides read access to certain software tables.
+33000162785,CWT Sanas L2,7,0,0,0,0,0,7,2,My Team,no,Sanas L2 receives unresolved tickets from L1 GSD to L3 Sanas Support via Sanas portal or by sending email to Sanas Support support@sanas.ai
+33000163294,CWT SCRUM-ADMIN,1,0,0,0,0,0,1,2,My Team,no,Role group to provide scrum_admin role
+33000163220,CWT SCRUM-USER,1,0,0,0,0,0,1,2,My Team,no,Role group to provide scrum_user role
+33000162200,CWT Security Engineering,13,0,0,0,0,0,13,2,My Team,no,Management of CWT IT Security tools and operational incident response updated group email per Leif Wilson 2/27/25.
+33000164150,CWT Security Operations,0,0,0,0,0,0,0,2,My Team,no,
+33000163221,CWT SECURITY-ADMIN,1,0,0,0,0,0,1,2,My Team,no,Group that allows access to update Group Membership.  User can add groups withing the User record or update members through the Group record.
+33000163222,CWT SECURITY-MODULE-ADMIN,1,0,0,0,0,0,1,2,My Team,no,Module that provides the role for the security module that now holds all iRespond incidents.  Module is Security Incidents.
+33000163223,CWT SecurityScorecard-Admin,1,0,0,0,0,0,1,2,My Team,no,Role group for x_sesri_ssc_itsm.admin role for the SecurityScorecard module
+33000163224,CWT SecurityScorecard-User,1,0,0,0,0,0,1,2,My Team,no,Role group for x_sesri_ssc_itsm.user role for the SecurityScorecard module
+33000163225,CWT Service Mapping Users,1,0,0,0,0,0,1,2,My Team,no,Group used to grant access to view Service maps in SNOW
+33000163226,CWT Service Portal Admin,1,0,0,0,0,0,1,2,My Team,no,null
+33000163227,CWT Service Portal Administrators,1,0,0,0,0,0,1,2,My Team,no,Group that provides roles for Service Portal Admins
+33000163228,CWT SERVICE-MAPPING-USER,1,0,0,0,0,0,1,2,My Team,no,Group contaning the SM_User role to view existing operational service maps
+33000162182,CWT ServiceNow Support,20,0,0,0,0,0,20,2,My Team,no,SERVICENOW Administration and User access/permssions issues
+33000163229,CWT SG Domain Approver,3,0,0,0,0,0,3,2,My Team,no,This group is used is Approver/Assignment group for the domain cleanup effort.
+33000163230,CWT SHANGHAI SERVICE DESK,2,0,0,0,0,0,2,2,My Team,no,null
+33000162201,CWT SharePoint,4,0,0,0,0,0,4,2,My Team,no,null
+33000162978,CWT Sharepoint Approver Group,4,0,0,0,0,0,4,2,My Team,no,null
+33000163231,CWT SM Process Owner/Manager,2,0,0,0,0,0,2,2,My Team,no,null
+33000163232,CWT SmartData Approver Group,2,0,0,0,0,0,2,2,My Team,no,SmartData & SmartRobotics Change Approver Group
+33000162788,CWT SmartData Product Support,4,0,0,0,0,0,4,2,My Team,no,SmartData L3 product support group.  Fields SmartData functionality questions and incidents
+33000162789,CWT SmartRobotics Product Support,4,0,0,0,0,0,4,2,My Team,no,SmartRobotics L3 product support group.  Fields SmartData functionality questions and incidents
+33000165344,CWT SNAP HOLDING GROUP,68,0,0,0,0,0,68,2,My Team,no,Group is for CWT converted agent  
+33000163233,CWT Software Asset Admin,1,0,0,0,0,0,1,2,My Team,no,Group reserved for all those who operate as Software Asset Administrators only
+33000163234,CWT SOLUTIONS DATA LOADING,4,0,0,0,0,0,4,2,My Team,no,null
+33000162790,CWT SOLUTIONS GROUP,3,0,0,0,0,0,3,2,My Team,no,null
+33000163235,CWT Solutions Group DataDev,2,0,0,0,0,0,2,2,My Team,no,Data development team which is a part of the SG-TED Global Team
+33000162791,CWT SP CBS Service Group,4,0,0,0,0,0,4,2,My Team,no,This group will perform production support for legacy and new services under the CBS group of services
+33000162792,CWT SP CIP Support,1,0,0,0,0,0,1,2,My Team,no,CWT Integration Platform applications support
+33000163236,CWT SP D&G Service Support Group,2,0,0,0,0,0,2,2,My Team,no,"The Service Group aims to receive and track issues related to the new API service for alerts for D&G customers who opted-in for the service to get alerts for anything related to their bookings - cancellations, etc."
+33000162793,CWT SP M&G Support,3,0,0,0,0,0,3,2,My Team,no,Aqua Replicator API and Core Retention applications Support
+33000162794,CWT SP myCWT Rail and OBT Service Group,7,0,0,0,0,0,7,2,My Team,no,"This group will perform production support for myCWT Expansion Rail  Renamed from ""myCWT Rail Service Group"" to ""SP myCWT Rail and OBT Service Group"" 6/5/24 per Florante Navaja RITM0330362"
+33000163237,CWT SP-REPORTING,1,0,0,0,0,0,1,2,My Team,no,null
+33000162795,CWT Spotnana management escalations,1,0,0,0,0,0,1,2,My Team,no,Spotnana management escalations for Spotnana issues
+33000162796,CWT SQL Server Comm DBA,16,0,0,0,0,0,16,2,My Team,no,SQL Server Commercial DBA team
+33000162797,CWT SQL Server M&G DBA,5,0,0,0,0,0,5,2,My Team,no,SQL Server M&G DBA team
+33000162515,CWT SRS Approvals,3,0,0,0,0,0,3,2,My Team,no,CWT SRS Approval Group
+33000162798,CWT STO (Smart Traveler Online),3,0,0,0,0,0,3,2,My Team,no,This group is for STO OBT - Maintenance and set-up
+33000162202,CWT Storage,8,0,0,0,0,0,8,2,My Team,no,null
+33000163238,CWT Super User Group,1,0,0,0,0,0,1,2,My Team,no,Group containing the members of the SUG.  Used to control access to certain applications in production.
+33000162518,CWT SupplierIQ,2,0,0,0,0,0,2,2,My Team,no,Manage the running of the application SupplierIQ
+33000162979,CWT SupplierIQ Approver Group,3,0,0,0,0,0,3,2,My Team,no,Approver Group for the application CWT Supplier IQ
+33000162519,CWT SupplierIQ Development,2,0,0,0,0,0,2,2,My Team,no,User group to be used in the CWT SupplierIQ Development
+33000162980,CWT SupplierIQ Product Management,3,0,0,0,0,0,3,2,My Team,no,CWT SupplierIQ Product Management
+33000163239,CWT Survey Creators,1,0,0,0,0,0,1,2,My Team,no,This is a group of users who have survey_creator role.
+33000163240,CWT SURVEY-READER,1,0,0,0,0,0,1,2,My Team,no,Group allowed to view survey results
+33000162799,CWT Sustainability API DevOps Support,4,0,0,0,0,0,4,2,My Team,no,null
+33000162733,CWT Sybase Comm DBA,18,0,0,0,0,0,18,2,My Team,no,Sybase Commercial DBA team
+33000163241,CWT Sybase M&G DBA,6,0,0,0,0,0,6,2,My Team,no,Sybase M&G DBA team
+33000163242,CWT SYEX WILY MONITORING,1,0,0,0,0,0,1,2,My Team,no,null
+33000163243,CWT Tableau Support,2,0,0,0,0,0,2,2,My Team,no,Data Visualization platform support group.
+33000163244,CWT TEC User Group,6,0,0,0,0,0,6,2,My Team,no,Group for the CWT TEC User so a value can be entered for the required field Originating Group for TEC tickets.
+33000162520,CWT TECH Services Desktop,8,0,0,0,0,0,8,2,My Team,no,"Group renamed from BPG APAC Synergy Products to CWT TECH Services Desktop on April 21, 2026 (RITM0542195)."
+33000163245,CWT Telephony Approvers,3,0,0,0,0,0,3,2,My Team,no,Approvals of telephony service requests for dedicated VDN for client on transaction fee. CWT standards are to assign shared VDNs for clients on non-management fee.
+33000163246,CWT TEMPLATE-GLOBAL-EDITOR,1,0,0,0,0,0,1,2,My Team,no,Group used to assign the template_editor_global role to users
+33000163247,CWT TEMPLATE-GLOBAL-VIEW,1,0,0,0,0,0,1,2,My Team,no,Group used to assign the template_global-view role to users
+33000163248,CWT TEMPLATE-GROUP-EDITOR,1,0,0,0,0,0,1,2,My Team,no,Group used to allow users to create and edit templates.
+33000163856,CWT Test SR Group,0,0,0,0,0,0,0,2,My Team,no,
+33000163249,CWT TFP SECURITY,4,0,0,0,0,0,4,2,My Team,no,null
+33000163250,CWT Timecard Admin,1,0,0,0,0,0,1,2,My Team,no,Group used to assign the timecard_admin role.
+33000163251,CWT Timecard User,1,0,0,0,0,0,1,2,My Team,no,Group used to assign the timecard_user role.
+33000162734,CWT TMA Team,4,0,0,0,0,0,4,2,My Team,no,"Analyze, evaluate, escalate requiremts to Turismatica.  Note: Turismatica is a backoffice provider in LATAM (Exept Brasil and Costa Rica)"
+33000163252,CWT Travcom E-Invoice Approver Group,4,0,0,0,0,0,4,2,My Team,no,Travcom E-Invoice Approver Group
+33000163253,CWT Travel Consolidator Approvers,2,0,0,0,0,0,2,2,My Team,no,Approver Group for Travel Condolidator
+33000163254,CWT Traveler Service ADM & EOs BR,5,0,0,0,0,0,5,2,My Team,no,Esse grupo será o responsável para responder as pendências.
+33000162735,CWT Traveler Technology Approvers,10,0,0,0,0,0,10,2,My Team,no,Approvals for myCWT deployments
+33000163255,CWT TRAVELERS SERVICES SUPPORT MX,1,0,0,0,0,0,1,2,My Team,no,null
+33000162736,CWT Trip Approval API Support,3,0,0,0,0,0,3,2,My Team,no,This group is to support Trip Approval API related issues
+33000162737,CWT Trondent PreTrip Support,3,0,0,0,0,0,3,2,My Team,no,Support Group to manage Trondent tickets
+33000163256,CWT TS FR HD0 ONLINE CLERMONT,1,0,0,0,0,0,1,2,My Team,no,null
+33000163257,CWT TS FR HD0 ONLINE LILLE,1,0,0,0,0,0,1,2,My Team,no,null
+33000162981,CWT TS Global Network Operations,8,0,0,0,0,0,8,2,My Team,no,"This is NOT an IT group and tickets about LAN/WAN, IT data or voice network should not be sent to this team. This team deals with Business Continuity/Resiliency."
+33000163258,CWT TS Products BR,1,0,0,0,0,0,1,2,My Team,no,SUPPORT TS PRODUCTS
+33000163259,CWT TS-FULFILLER-ROLE-GROUP,1,0,0,0,0,0,1,2,My Team,no,Applies roles for Traveler Services Full Access Users
+33000163260,CWT TSC UNKNOWN TICKET TRIAGE,1,0,0,0,0,0,1,2,My Team,no,This group will be assigned to incoming SSF Webforms or Portal tickets that have a missing assignment group or are trying to be assigned to an inactive group.
+33000163261,CWT TSE Supvs,1,0,0,0,0,0,1,2,My Team,no,null
+33000162982,CWT TT/AME Operations,4,0,0,0,0,0,4,2,My Team,no,Groups for all Travel Technology production 24/7 operations issues
+33000162738,CWT TX CONTAS A PAGAR,6,0,0,0,0,0,6,2,My Team,no,Fulfillment group for TX Operational Errors processing
+33000162739,CWT TX CONTAS A RECEBER,5,0,0,0,0,0,5,2,My Team,no,Fulfillment group for TX Operational Error
+33000163262,CWT TX COUNSELORS ROLE GROUP,1,0,0,0,0,0,1,2,My Team,no,"Group that controls role membership for tx_counselors role. This is used to make the Functional Support (Offers Assistant, Spotnana, Power Express) workflow visible in virtual agent."
+33000162740,CWT TX L2 Messaging Support,5,0,0,0,0,0,5,2,My Team,no,Internal L2 Support of IM chat errors and outages.
+33000163263,CWT TX Op Error CFO Approvers Support,3,0,0,0,0,0,3,2,My Team,no,"Approval group for “TX Operational Errors” (Support) in excess of $10,001"
+33000163264,CWT TX Op Error CFO Approvers TX,3,0,0,0,0,0,3,2,My Team,no,"Approval group for ""TX Operational Errors"" (TX) in excess of $10,001 November 20, 2025: Group manager changed to Priscilas Morales. Members amended to David Romero and Priscila Morales."
+33000163265,CWT TX Op Error Director Approvers IT,2,0,0,0,0,0,2,2,My Team,no,"Approval group for “TX Operational Errors” (IT) amounts of $2001-10,000"
+33000163266,CWT TX Op Error Director Approvers Support,3,0,0,0,0,0,3,2,My Team,no,"Approval group for “TX Operational Errors” (Support) amounts of $2001-10,000"
+33000163267,CWT TX Op Error Manager Approvers Finance,3,0,0,0,0,0,3,2,My Team,no,"Approval group for “TX Operational Errors” (Finance) amounts of $0-2,000"
+33000163268,CWT TX Op Error Manager Approvers IT,2,0,0,0,0,0,2,2,My Team,no,"Approval group for “TX Operational Errors” (IT) amounts of $0-2,000"
+33000163269,CWT TX Ops Accenture,7,0,0,0,0,0,7,2,My Team,no,This group is for TX managers in ALL countries supporting feedback handling for ACCENTURE
+33000163347,CWT TX Ops Benelux,3,0,0,0,0,0,3,2,My Team,no,This group is for TX managers in BENELUX supporting feedback handling for BENELUX clients
+33000162741,CWT TX Ops Brazil,9,0,0,0,0,0,9,2,My Team,no,This group is for TX managers in Brazil supporting feedback handling for ALL clients
+33000163348,CWT TX Ops Cigna,2,0,0,0,0,0,2,2,My Team,no,This group is for TX managers supporting feedback handling for CIGNA globally
+33000163349,CWT TX Ops Concierge NORAM,2,0,0,0,0,0,2,2,My Team,no,This group is for TX Ops Concierge NORAM team
+33000163350,CWT TX Ops Deloitte UK,3,0,0,0,0,0,3,2,My Team,no,This group is for TX managers in UK supporting feedback handling for DELOITTE
+33000163351,CWT TX Ops Eastern Europe,5,0,0,0,0,0,5,2,My Team,no,"This group is for TX managers in CZECH REP., GREECE, HUNGARY, POLAND, ROMANIA and UKRAINE supporting feedback handling for ALL clients"
+33000163352,CWT TX Ops Egypt,2,0,0,0,0,0,2,2,My Team,no,"This group is for TX managers in EGYPT supporting feedback handling for ALL clients AND: Siemens Gamessa and Energy : Jordan, Mauritania  Koch :  Bahrain and UAE  Oracle : Jordan , United Arab of Emirates , Saudi Arabia , Qatar , Kuwait , Oman , Bahrain , Lebanon, Morocco , Algeria , Kenya , Mauritius , Nigeria , Cote D'ivoire ( Ivory Coast ) , Ghana , Senegal"
+33000163353,CWT TX Ops EU Parliament,2,0,0,0,0,0,2,2,My Team,no,This group is for European Parliament TX Managers
+33000163354,CWT TX Ops FAO,3,0,0,0,0,0,3,2,My Team,no,This group is for TX managers in ITALY supporting feedback handling for FAO
+33000163338,CWT TX Ops FTS VIP,6,0,0,0,0,0,6,2,My Team,no,This group is for TX Ops FTS VIP team
+33000163339,CWT TX Ops HPI,1,0,0,0,0,0,1,2,My Team,no,This group is for TX managers supporting feedback handling for HPI globally
+33000163340,CWT TX Ops IFAD,4,0,0,0,0,0,4,2,My Team,no,This group is for TX managers in ITALY supporting feedback handling for IFAD
+33000163341,CWT TX Ops India,16,0,0,0,0,0,16,2,My Team,no,This group is for TX managers in INDIA supporting feedback handling for ALL clients
+33000163342,CWT TX Ops NORAM,19,0,0,0,0,0,19,2,My Team,no,This group is for TX managers in NORAM supporting feedback handling for ALL clients
+33000163343,CWT TX Ops Paramount,4,0,0,0,0,0,4,2,My Team,no,This group is for TX managers supporting feedback handling for PARAMOUNT globally
+33000163344,CWT TX Ops PH GSC,4,0,0,0,0,0,4,2,My Team,no,This group is for TX Managers in GSC PH supporting feedback handling for ALL clients
+33000163345,CWT TX Ops Siemens MNL,3,0,0,0,0,0,3,2,My Team,no,This group is for dedicated TX PH GSC Siemens Customer Service Team
+33000163346,CWT TX Ops Solar Turbines PL,4,0,0,0,0,0,4,2,My Team,no,This group is for dedicated TX PL GSC Solar Turbines Customer Service Team
+33000163325,CWT TX Ops Spain,4,0,0,0,0,0,4,2,My Team,no,This group is for TX managers in SPAIN supporting feedback handling for ALL clients
+33000163326,CWT TX Ops UKIE,11,0,0,0,0,0,11,2,My Team,no,This group is for TX managers in UKIE supporting feedback handling for ALL clients
+33000163327,CWT TX Ops VIP NORAM,1,0,0,0,0,0,1,2,My Team,no,This group is for TX Ops VIP NORAM team
+33000163328,CWT TX Ops VISA/Macquarie,2,0,0,0,0,0,2,2,My Team,no,This group is for TX managers  supporting feedback handling for VISA and Macquarie.
+33000162742,CWT TX Product Experts APAC,4,0,0,0,0,0,4,2,My Team,no,"Support TX Operations by providing expert guidance on client implementations, local and regional products, ensuring that all new and existing products meet global and regional standards."
+33000162743,CWT TX Product Experts Book2GO,9,0,0,0,0,0,9,2,My Team,no,"Support TX Operations with by providing expert guidance on client implementations, local and regional products, ensuring that all new and existing products meet global and regional standards. Scope is restricted to the Italy specific product Book2Go."
+33000162744,CWT TX Product Experts EMEA,8,0,0,0,0,0,8,2,My Team,no,"Support TX Operations by providing expert guidance on client implementations, local and regional products, ensuring that all new and existing products meet global and regional standards."
+33000162183,CWT TX PRODUCT EXPERTS ITALY,9,0,0,0,0,0,9,2,My Team,no,"Support TX Operations by providing expert guidance on client implementations, local and regional products, ensuring that all new and existing products meet global and regional standards."
+33000162747,CWT TX Product Experts NORAM,5,0,0,0,0,0,5,2,My Team,no,"Support TX Operations by providing expert guidance on client implementations, local and regional products, ensuring that all new and existing products meet global and regional standards"
+33000162184,CWT TX REEMBOLSO,4,0,0,0,0,0,4,2,My Team,no,Fulfillment group for TX Operational Errors processing
+33000163782,CWT TXC L2 CWT Resolve,0,0,0,0,0,0,0,2,My Team,no,
+33000163320,CWT UK IT Procurement,2,0,0,0,0,0,2,2,My Team,no,null
+33000162750,CWT UK WINGS FINANCE,4,0,0,0,0,0,4,2,My Team,no,Wings setup and maintenance UK
+33000163321,CWT User Admin,1,0,0,0,0,0,1,2,My Team,no,"Group granting  access to User, Location, Group and Company tables."
+33000163322,CWT USER MIGRATIONS,1,0,0,0,0,0,1,2,My Team,no,Hidden group used for Change Management user migrations and template management.
+33000163323,CWT USER-ACTIVITY-TRACKER-USER,1,0,0,0,0,0,1,2,My Team,no,Group to assing role to access the u_user_activity_tracker table for license auditing.
+33000162185,CWT VENDOR CONTRACT ADMIN,3,0,0,0,0,0,3,2,My Team,no,null
+33000163324,CWT Vendor Manager,1,0,0,0,0,0,1,2,My Team,no,null
+33000163334,CWT Vendor Security Management,1,0,0,0,0,0,1,2,My Team,no,null
+33000163335,CWT Veracode-Integration-Role-Group,1,0,0,0,0,0,1,2,My Team,no,Role group to assign role sn_vul_veracode.configure_integration to users.
+33000162753,CWT Verint QM GLOBAL L2,4,0,0,0,0,0,4,2,My Team,no,"Verint Quality Management support Level 2. Processing tickets not solved by L1. Members of this group are based by Region (APAC, EMEA, LATAM, NORAM)"
+33000162186,CWT Verint QM Global Level 1,11,0,0,0,0,0,11,2,My Team,no,"Verint Quality Management support Global (Americas, EMEA, APAC) Level 1 processing tickets from end users in the support of WFO - Quality Management tool (Verint)"
+33000162756,CWT Verint QM M&G L1,1,0,0,0,0,0,1,2,My Team,no,Verint Quality Management support Military & Government Level 1-Processing tickets reveived from end-users
+33000162757,CWT Verint WFM APAC L1,1,0,0,0,0,0,1,2,My Team,no,Verint Work Force Management support APAC Level 1-Processing tickets reveived from end-users
+33000162758,CWT Verint WFM EMEA L1,5,0,0,0,0,0,5,2,My Team,no,Verint Work Force Management support EMEA Level 1-Processing tickets reveived from end-users
+33000162759,CWT Verint WFM Global L2,3,0,0,0,0,0,3,2,My Team,no,"Verint Work Force Management support Level 2. Processing tickets not solved by L1. Members of this group are based by Region (APAC, EMEA, LATAM, NORAM)"
+33000162760,CWT Verint WFM LATAM L1,4,0,0,0,0,0,4,2,My Team,no,Verint Work Force Management support LATAM Level 1-Processing tickets reveived from end-users
+33000162187,CWT Verint WFM M&G L1,1,0,0,0,0,0,1,2,My Team,no,Verint Work Force Management support M&G Level 1-Processing tickets reveived from end-users
+33000162763,CWT Verint WFM M&G L2,1,0,0,0,0,0,1,2,My Team,no,Verint Work Force Management support Level 2. Processing tickets not solved by L1
+33000162188,CWT Verint WFM NORAM L1,3,0,0,0,0,0,3,2,My Team,no,Verint Work Force Management support NORAM Level 1-Processing tickets reveived from end-users
+33000163336,CWT Vulnerability Admin,1,0,0,0,0,0,1,2,My Team,no,"Configures all rules, integrations, etc. for the Vulnerability Response product."
+33000163337,CWT Vulnerability Analyst,1,0,0,0,0,0,1,2,My Team,no,Monitors remediation of all vulnerable items.
+33000163329,CWT Vulnerability Management,4,0,0,0,0,0,4,2,My Team,no,Works tickets  related to the Vulnerability Response module. This group will be a default landing spot for vulnerabilities without any current assignment logic.. it is also an email DL that we have setup to help with the management of these vulnerabilities.
+33000163330,CWT Vulnerability Remediation Owner,1,0,0,0,0,0,1,2,My Team,no,"This role group grants access to work ""Vulnerability Remediation tasks""  This group has the role ""sn_vul.remediation_owner"" nested in it."
+33000163331,CWT VULNERABILITY-ROLE-GROUP,1,0,0,0,0,0,1,2,My Team,no,null
+33000162203,CWT WEB Operations,10,0,0,0,0,0,10,2,My Team,no,Manages SSL certificates and domains
+33000162523,CWT WEB TEAM,4,0,0,0,0,0,4,2,My Team,no,null
+33000162766,CWT WFM M&G MARKETS CWTSATOTRAVEL,1,0,0,0,0,0,1,2,My Team,no,null
+33000162767,CWT Wings Approvers,3,0,0,0,0,0,3,2,My Team,no,Approve Wings change request
+33000162189,CWT WINGS BO SUPPORT,14,0,0,0,0,0,14,2,My Team,no,The WINGS BO SUPPORT Team will handle all requests related the pure back-office task within WINGS
+33000162770,CWT WINGS FO SUPPORT,11,0,0,0,0,0,11,2,My Team,no,WINGS FO SUPPORT is a WINGS support group for the TX related Requests
+33000162771,CWT Work Force Management  (WFM),0,0,0,0,0,0,0,2,My Team,no,null
+33000163332,CWT XX1 Travel XML API Approver Group,3,0,0,0,0,0,3,2,My Team,no,Create a Change Approver Group. Tie approver group to the below applications: XX1 Travel XML API Prod PCI XX1 Travel XML API Prod NON-PCI XX1 Travel XML API Preprod
+33000163333,CWT Yubikey Approver Group,3,0,0,0,0,0,3,2,My Team,no,Approval group used for the Yubikey Request form.
+33000162772,CWT Zillious Implementations,2,0,0,0,0,0,2,2,My Team,no,This group will be used to track and log Zillious India Implementations only. No ticket assignments are permitted.
+33000162524,CWT_CRM_Application_Support,2,0,0,0,0,0,2,2,My Team,no,Group of CWT IT professionals supporting CRM Oracle Sales Cloud
+33000162986,CWT_CRM_EIT_Approvers,1,0,0,0,0,0,1,2,My Team,no,Business Function (does not fit the field) - Sales and Program Management Enterprise Information Technology (EIT) EIT Approvers for CRM changes.
+33000162525,CWT_CRM_EIT_Support,3,0,0,0,0,0,3,2,My Team,no,EIT Support for CRM Oracle Sales Cloud
+33000162983,CWT-CREATE-USER,1,0,0,0,0,0,1,2,My Team,no,Group that controls cwt_create_user role.  For CWT users that need to create users in the system for Client company callers.
+33000162984,CWT-VLAN-RANGES-USER,1,0,0,0,0,0,1,2,My Team,no,Group to apply the role u_cwt_vlan_ranges_user
+33000162985,CWTU_NA,1,0,0,0,0,0,1,2,My Team,no,null
